@@ -1,0 +1,856 @@
+content,created_at,author,reference
+&history,2022-08-25 11:32:24.369000+00:00,finn,
+Dan wants us to give us a what we want to do ideally in 2-3 sentences and hell float to Minervas network,2022-08-23 02:01:33.138000+00:00,andrepology,
+https://www.notion.so/curl-projects/Emergent-Ventures-Proposal-Drafts-1a6bdf52dd1a4d20ab49078d159e14da,2022-08-22 21:48:52.464000+00:00,EllieDeSota,
+In the drafts doc,2022-08-22 21:48:42.641000+00:00,EllieDeSota,
+"Also - additional Material -> Idea in a tweet? 
+
+- What if search didn’t stop at keywords? Abstract poetry reinvents search to eliminate exhausting keyword engineering, and systemic bias towards popular results by listening to your preferences and returning results based on paper content not just keywords.
+
+Summary of proposal - 
+
+We used systems thinking, user focused design, and interdisciplinary development to redesign academic search so it facilitates exploratory and exhaustive search without keyword engineering. We brought our product to beta testing from an idea in 2 months, but are limited by the costs of hosting and gaining access to academic data making our product easily scalable with relatively low investment.",2022-08-22 21:43:56.628000+00:00,EllieDeSota,
+https://www.notion.so/curl-projects/Emergent-Ventures-Proposal-d7ba1bc767e549448dabf22e1d967efe,2022-08-22 21:24:20.573000+00:00,EllieDeSota,
+Did some word cutting -> final proposal here with links embedded,2022-08-22 21:24:18.611000+00:00,EllieDeSota,
+As a note - my only goal for the next week is to pop through the Protocol labs stuff - otherwise I'll be relatively checked out,2022-08-22 01:27:48.415000+00:00,EllieDeSota,
+Will do! Thanks for checking through.,2022-08-22 01:27:10.246000+00:00,EllieDeSota,<MessageReference message_id=1011042136499683400 channel_id=1002291205025050724 guild_id=977651180308160512>
+"GG <@694931462763446363>, you just advanced to level 8!",2022-08-22 01:26:27.187000+00:00,MEE6,
+I'd love to also be a part of this convo when yall have it!,2022-08-22 01:26:26.613000+00:00,EllieDeSota,<MessageReference message_id=1011041759779897344 channel_id=1002291205025050724 guild_id=977651180308160512>
+Fine with me! I’ll write up and test some stuff,2022-08-22 00:26:44.852000+00:00,finn,
+Can do tomorrow,2022-08-22 00:04:50.512000+00:00,andrepology,
+Out out with friends tonight,2022-08-22 00:04:48.078000+00:00,andrepology,
+"anyone free to talk about stuff in like 20 mins, had lots of ideas after call with Jacob",2022-08-21 23:47:30.125000+00:00,finn,
+"not doing knowledge graph stuff at the moment, but will do so if i do this later",2022-08-21 22:57:14.299000+00:00,finn,
+"Just try to capture as many node types (author, message, entity) and as many edges. And save model outputs as metadata along an edge. And think of recommendation/summarization etc as walking the graph in ways that incorporate the metadata",2022-08-21 22:56:44.072000+00:00,andrepology,<MessageReference message_id=1011042136499683400 channel_id=1002291205025050724 guild_id=977651180308160512>
+pke is also pretty good at keyword extraction,2022-08-21 22:56:24.603000+00:00,finn,
+I will,2022-08-21 22:51:46.855000+00:00,andrepology,
+going to switch to discord data science stuff,2022-08-21 22:51:34.006000+00:00,finn,
+everyone else should read through and leave comments on it at least once before we submit it on Monday,2022-08-21 22:50:43.764000+00:00,finn,
+should be fine for now,2022-08-21 22:50:27.492000+00:00,finn,
+"okay, added images and refined some more stuff",2022-08-21 22:50:22.032000+00:00,finn,
+Also reviewed Ellie's reflection doc and left comments,2022-08-21 22:42:06.321000+00:00,finn,
+"but if we figure out a way of representing short strings (i.e. tweets and discord messages) in a system that allows us to extract meaningful patterns and insights from them, we can use them for both projects",2022-08-21 22:40:29.596000+00:00,finn,
+"at the very least, operating in the same domain",2022-08-21 22:39:51.070000+00:00,finn,
+Yeah I sense that,2022-08-21 22:39:40.547000+00:00,andrepology,
+seems like discord stuff could end up really really similar to the Tweetscape stuff,2022-08-21 22:39:25.748000+00:00,finn,
+<@956585029524402226> want to talk to you about building knowledge graphs at some point,2022-08-21 22:38:59.779000+00:00,finn,
+have some interesting thoughts about zero-shot classification,2022-08-21 22:38:40.367000+00:00,finn,
+going to do more data science for the discord bot today,2022-08-21 22:38:28.583000+00:00,finn,
+what have we got to do?,2022-08-21 22:37:52.116000+00:00,finn,
+"I need more stuff to work on, bored",2022-08-21 22:37:47.333000+00:00,finn,
+It's at the bottom of the document,2022-08-21 22:37:09.568000+00:00,finn,
+Emerging Ventures v3.1 is done,2022-08-21 22:37:04.695000+00:00,finn,
+"Okey dokie, might add some images then",2022-08-21 22:36:57.572000+00:00,finn,
+We're just submitting a PDF,2022-08-21 22:36:46.548000+00:00,EllieDeSota,
+Nearly done with the rewrite,2022-08-21 22:36:36.941000+00:00,finn,
+As far as I know - yes.,2022-08-21 22:36:36.176000+00:00,EllieDeSota,<MessageReference message_id=1011030390879830097 channel_id=1002291205025050724 guild_id=977651180308160512>
+Yep - go for it. Helping my aunt fix up her house today,2022-08-21 22:36:25.022000+00:00,EllieDeSota,<MessageReference message_id=1011026286648492042 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Questions:
+- Can we include images in our application?",2022-08-21 21:53:49.222000+00:00,finn,
+Rewriting emerging ventures now,2022-08-21 21:50:08.008000+00:00,finn,
+"<@694931462763446363> want to go through it together, or alternatively do I have permission to make a copy of the grant and write v3?",2022-08-21 21:37:30.697000+00:00,finn,
+Reviewed Emerging Ventures grant and added comments,2022-08-21 21:37:11.297000+00:00,finn,
+"Hello, i'm working again!",2022-08-21 21:08:47.425000+00:00,finn,
+"talking to a senior PM at salesforce tomorrow, I'll ask him about it",2022-08-21 10:49:22.834000+00:00,finn,
+We need some preliminary user interviews to see if this is a problem/workflow,2022-08-21 10:49:10.956000+00:00,finn,
+"- Identify how much everyone’s been talking, and what they generally talk about
+- Find repeated questions and their answers
+- Create semantic search for Discord conversations
+- Find the topics that are most commonly talked about
+- Sort all links/embeds/etc. into groups for the chat history and allow easy search
+- Build a knowledge graph on top of the conversation (?)
+- Create pre-defined important categories like “product strategy” and “team dynamics” and find discussions associated with them
+    
+    **Important Categories**
+    
+    - Product Ideas
+    - Team Dynamics and Systems
+    - Product Strategy
+    - Bugs and Issues
+- Export to document hub like Notion or Heptabase
+- Find answers to technical problems",2022-08-21 10:48:54.351000+00:00,finn,
+And a list of some of the cool stuff we could do with processing discord messages:,2022-08-21 10:48:51.492000+00:00,finn,
+here's my up to date notebook,2022-08-21 10:48:29.746000+00:00,finn,
+,2022-08-21 10:48:23.187000+00:00,finn,
+Will continue work tomorrow morning,2022-08-21 10:48:11.963000+00:00,finn,
+https://github.com/boudinfl/pke/blob/master/results.md,2022-08-21 10:43:54.057000+00:00,finn,
+even with default settings,2022-08-21 10:36:00.003000+00:00,finn,
+yake is much much better,2022-08-21 10:35:49.944000+00:00,finn,
+,2022-08-21 10:35:44.178000+00:00,finn,
+our conversations are enthralling,2022-08-21 10:31:52.964000+00:00,finn,
+,2022-08-21 10:31:51.351000+00:00,finn,
+Looks like we need to chat about something a lot XD,2022-08-21 09:48:34.034000+00:00,EllieDeSota,
+,2022-08-21 09:29:09.289000+00:00,finn,
+Oh noo. Happy rest bro,2022-08-21 01:59:35.364000+00:00,EllieDeSota,<MessageReference message_id=1010728431060779091 channel_id=1002291205025050724 guild_id=977651180308160512>
+"So I have a bad migraine, I'll talk to you tomorrow",2022-08-21 01:53:56.391000+00:00,andrepology,
+"yeah, this is definitely related",2022-08-21 00:02:00.195000+00:00,finn,
+"(They're not integrated to discord/slack I don't think, but they do self-organize notes and other stuff so could be interesting)",2022-08-21 00:01:40.414000+00:00,EllieDeSota,
+Also - this seems related to your aggregation ideas -> https://get.mem.ai/,2022-08-21 00:01:14.346000+00:00,EllieDeSota,
+"Yay, sounds good",2022-08-20 23:59:15.430000+00:00,finn,
+Yah should! Somewhere around then I'll have my checkout appointment but otherwise chillin I think,2022-08-20 23:59:06.236000+00:00,EllieDeSota,
+"GG <@752493639174717492>, you just advanced to level 9!",2022-08-20 23:58:41.331000+00:00,MEE6,
+<@694931462763446363> does a couple of hours when andre's back work for you?,2022-08-20 23:58:40.639000+00:00,finn,
+I'm out with family but I can in a couple hours,2022-08-20 23:58:21.323000+00:00,andrepology,
+Im free - don't have much context but can chat!,2022-08-20 23:58:02.377000+00:00,EllieDeSota,
+anyone want to talk about product strategy? trying to figure out what to devote my time to,2022-08-20 23:49:09.218000+00:00,finn,
+it's related to what we might want to do with Skepsi: extract standardisable metadata from academic comments on papers,2022-08-20 22:30:39.793000+00:00,finn,
+"which is obviously applicable for things like Discord channels, but is also generally relevant for the incredibly general category of ""text conversations on the internet""",2022-08-20 22:30:34.650000+00:00,finn,
+was thinking maybe a general direction is imposing a layer of structure on unstructured knowledge,2022-08-20 22:30:32.853000+00:00,finn,
+^ Here's a smaller subset of that problem that is aligned with a specific workflow,2022-08-20 22:20:29.320000+00:00,finn,
+"**Specific Workflow Problem**
+When employees have a question about their job, they often ask it on social platforms like Slack or Discord, where it’s quickly lost. Searching for these questions is difficult and rarely done, because channel search is basic and there are so many messages that looking through chat history is impossible.
+
+We can use AI to identify question & answer threads in chat history, turning a Discord or Slack channel into a responsive documentation hub.",2022-08-20 22:20:12.943000+00:00,finn,
+^ Here's one potential problem that we could tackle,2022-08-20 22:14:00.038000+00:00,finn,
+"**Problem Overview**
+Teams and companies need to track and document their progress to work effectively. A lot of these discussions happen on social platforms like Discord and Slack, because they involve far less friction than writing up and reading documentation.
+
+These applications make it nearly impossible to surface, search, categorise and reflect on the insights captured in these conversations because of their structure and lack of metadata.
+
+We can use AI to search and categorise conversations on social applications, turning unstructured knowledge into structured knowledge.",2022-08-20 22:13:48.837000+00:00,finn,
+"okey dokie, starting work now",2022-08-20 22:00:17.592000+00:00,finn,
+And finally - I'm going to spend some time today a) reflecting on what I learned over the summer + team process stuff b) collecting resources for 'middle-cases' c) writing up my roote stuff on creating a user-oriented design process and finding ways to improve that for next time. Let me know if there is something else I should pressingly be putting my time into/that yall want feedback on.,2022-08-20 20:10:00.669000+00:00,EllieDeSota,
+Also - let me know EV last thoughts. I would love to submit on Monday.,2022-08-20 20:03:45.019000+00:00,EllieDeSota,
+"Also - two ways we could frame working with Protocol Labs -> a) IPFS integration. We're creating semantic search for decentralized file structures. or b) Algorithm improvements and implementation with this nice add on of IPFS as where we're getting the data instead of getting it from centralized shit. I'm leaning more towards b - bc we've already got documentation and very clear next steps for it however, either way for the protocol labs stuff IPFS will/should be a significant part of our point/proposal. Let me know initial input etc.",2022-08-20 20:02:24.172000+00:00,EllieDeSota,
+Also - thank you thank you for putting all the responses into a further document 🙂,2022-08-20 19:46:22.873000+00:00,EllieDeSota,
+Aight - finished what I'm good with as a final draft of the email to Silvia. Will schedule to send Monday morning. I sent it to yall in email so you could see the format etc. It's also copy pasted in the updated updated response in notion for notes. Think it's kinda lit - thank you guys for being so onboard with writing such massively detailed techincal notes and replies!!,2022-08-20 19:39:10.267000+00:00,EllieDeSota,
+will do more thinking about the data science and problem space tomorrow,2022-08-20 10:42:49.260000+00:00,finn,
+"Discord uses OAuth to standardise APIs, so we could potentially build this out as a web application in addition to a bot",2022-08-20 10:42:34.269000+00:00,finn,
+"and short-answer is: very much possible, both as a bot, and as an application",2022-08-20 10:42:10.801000+00:00,finn,
+Was researching Discord API to make sure it was possible technically before committing to a write-up and conceptual outline,2022-08-20 10:41:55.980000+00:00,finn,
+"Okay, passing out from exhaustion so going to go to bed",2022-08-20 10:41:28.467000+00:00,finn,
+https://discord.com/developers/docs/topics/oauth2#bots,2022-08-20 10:41:18.372000+00:00,finn,
+Ok this is a stupid book I take it back,2022-08-20 02:39:36.453000+00:00,andrepology,
+Sending on telegram,2022-08-20 02:12:52.851000+00:00,andrepology,
+Oh okay not allowed,2022-08-20 02:12:34.333000+00:00,andrepology,
+"Also just bought this book <@694931462763446363> <@752493639174717492> 
+
+Will be helpful as we wander these spaces. But also reconciling systems and products",2022-08-20 02:11:57.606000+00:00,andrepology,
+"Still at lunch, but I’ll text you as soon as I get home",2022-08-20 01:47:27.962000+00:00,finn,
+Ok I'm back home <@752493639174717492>,2022-08-20 01:23:15.596000+00:00,andrepology,
+https://meet.google.com/ecv-dube-qzp,2022-08-19 23:20:47.875000+00:00,andrepology,
+Meet or Zoom,2022-08-19 23:20:32.500000+00:00,finn,
+Free now,2022-08-19 23:20:25.635000+00:00,finn,
+"Sorry vach, family called",2022-08-19 23:20:22.963000+00:00,finn,
+and this is querying for the same number of papers,2022-08-19 23:16:33.032000+00:00,andrepology,
+Hope this is clearer.,2022-08-19 23:14:26.120000+00:00,andrepology,
+"> Or in a less - grr bad scientist - way you've done the research and if you had found the similar things you wouldn't have done it. 
+
+I have literally no idea what this means lol xD. Please rephrase. 
+
+> how are you calculating distance? (and is it based on semantic spaces bc If so then isn't the semantic embeddings inherently going to be better bc that's what you're comparing against? Not sure on this tho)
+
+Distance is Euclidean, which is the intuitive, ""how far apart are these two points"" measure. I didn't want to measure cosine because it can be more compressive because the domain is [-1, 1]. 
+You calculate distances between vectors, so it's necessarily with embedding vectors and therefore semantic spaces. I don't know what you mean by ""inherently going to be better"".",2022-08-19 23:04:17.526000+00:00,andrepology,
+"> is it bc citations are inherently biases towards showing stuff that actually isn't that similar to your own work? (otherwise you can't justify it). 
+
+Going to give this reexplanation my best shot. This was an experiment to test the hypothesis that ""Cited papers are closer in meaning to nearest neighbours"", and we use embeddings to capture meaning and Euclidean distance to measure closeness. 
+
+This is confirmed, in a sense, if cited papers are much closer (the blue distribution is narrower and closer to the left) to the source paper and closer on average to nearest neighbours, especially since our database is so sparse: I thought we'd find that the nearest neighbors in our database are realllly far apart. 
+
+This is falsified, however, with this result: citations are in fact further and more dispersed than nearest neighbours in our tiny database.  
+
+What this tells us (in as many versions as I can think of): 
++ recommendation systems that use the citation graph to find similar papers are flawed, and skip a lot of papers close in meaning we would find otherwise with semantic spaces. 
++ semantic spaces are a superset of the citation graph
++ it takes much longer walks through citation graphs to find papers close in meaning
+
+^ The last thing might be worthwhile testing. How many networks of networks do you have to traverse to get to the closest paper in meaning that you would otherwise find with a simple nearest neighbor operation with semantic spaces?",2022-08-19 23:03:59.791000+00:00,andrepology,
+Noooooooo,2022-08-19 22:57:42.892000+00:00,finn,
+Ok in that time I'll respond to Ellie,2022-08-19 22:51:52.277000+00:00,andrepology,
+Give me five mins to finish breakfast,2022-08-19 22:50:56.581000+00:00,finn,
+"Yeah, let’s do it",2022-08-19 22:50:48.897000+00:00,finn,
+<@752493639174717492> protocol labs?,2022-08-19 22:50:27.765000+00:00,andrepology,
+Maybe a little less but yeah,2022-08-19 22:49:59.924000+00:00,andrepology,
+Also I found a place to work for a couple hours,2022-08-19 22:49:51.857000+00:00,andrepology,
+And recommendation as walks on the  social-content graph,2022-08-19 22:49:38.294000+00:00,andrepology,
+Agreed,2022-08-19 22:48:11.763000+00:00,finn,
+"I see citation/social graphs as being great for known unknowns, and embeddings being great for unknown unknowns",2022-08-19 22:47:24.217000+00:00,andrepology,
+,2022-08-19 22:46:55.783000+00:00,andrepology,
+We’d have to rely on APIs for citation mining until at a massive scale,2022-08-19 22:46:38.141000+00:00,finn,
+Check this out,2022-08-19 22:46:04.245000+00:00,andrepology,
+Getting this data structure right is the holy grail of any information curation project,2022-08-19 22:45:58.097000+00:00,andrepology,<MessageReference message_id=1010318647945867385 channel_id=1002291205025050724 guild_id=977651180308160512>
+"For AP, I see this potentially working at an interface level: traversal through both citation networks and semantic recommendation",2022-08-19 22:45:36.483000+00:00,finn,
+"On that note, ideally what we want is a hybrid between the two: social for people/interests over time, semantic for recommendation. This social-content graph is what I'm building for Tweetscape right now",2022-08-19 22:43:17.721000+00:00,andrepology,<MessageReference message_id=1010317138302619780 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Okay, that's what I meant by I felt misrepresented: I'm not outright rejecting citation graphs. I'm saying that as measures of semantic similarity they're flawed, but they're also widespread despite it.",2022-08-19 22:41:14.518000+00:00,andrepology,<MessageReference message_id=1010317138302619780 channel_id=1002291205025050724 guild_id=977651180308160512>
+"The purpose of a social/citation graph is not always to approximate semantic similarity, and it’s limiting to see them only from that perspective",2022-08-19 22:41:01.143000+00:00,finn,
+"I don’t disagree with what you’re saying, the problem is just how general you are in rejecting social/citation/etc. networks in these comments. For certain workflows and contexts, semantic connections are the correct traversal medium, and for others, citation networks are better. I follow some people on Twitter, for example, because I find their perspective interesting, not because they talk about some specific topic or anything. You follow some citation links because you care about the development of an idea or principle over time",2022-08-19 22:39:36.556000+00:00,finn,<MessageReference message_id=1010301457301504021 channel_id=1002291205025050724 guild_id=977651180308160512>
+They shouldn't but they do - this is what the article talks about at length,2022-08-19 22:36:46.027000+00:00,andrepology,<MessageReference message_id=1010313771966804040 channel_id=1002291205025050724 guild_id=977651180308160512>
+How do citation graphs capture causal relationships? What are causal relationships here?,2022-08-19 22:36:17.137000+00:00,andrepology,<MessageReference message_id=1010313520992239629 channel_id=1002291205025050724 guild_id=977651180308160512>
+"It's not, which is why we have an algorithm that samples and traverses the space efficiently",2022-08-19 22:35:57.659000+00:00,andrepology,<MessageReference message_id=1010313311449006130 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Another way to think about this is: when you follow someone on Twitter, you're not interested in everything they're saying. You could like what they say about desci but not what they say about sports. But both can be recommended because of the following link. Ie you are inferring semantic similarity from links on a social graph. The article I sent talks about this",2022-08-19 22:35:25.731000+00:00,andrepology,<MessageReference message_id=1010312977095852176 channel_id=1002291205025050724 guild_id=977651180308160512>
+So much faster and more nuanced,2022-08-19 22:30:12.845000+00:00,finn,
+Voice memo’s are so much better,2022-08-19 22:30:01.923000+00:00,finn,
+Give me a bit to get to my aunt's place and I'll respond,2022-08-19 22:29:56.012000+00:00,andrepology,
+Ok first of all it's hard to communicate over text but I think I was misunderstood too,2022-08-19 22:29:43.285000+00:00,andrepology,
+"We might argue that it’s the best version, but it’s not implicitly true, we would have to justify it",2022-08-19 22:26:59.160000+00:00,finn,
+"“Similarity” is a measure of many things, semantic similarity is just one version of it, and not necessarily the best version",2022-08-19 22:26:36.987000+00:00,finn,
+"The recommendation engines built on citation graphs don’t (or at least, shouldn’t) suggest that their goal is approximating semantic relationships",2022-08-19 22:26:13.959000+00:00,finn,
+You could just as easily argue that citation networks are better because they capture causal and disciplinary relationships,2022-08-19 22:25:14.122000+00:00,finn,
+Semantic similarity is not an objective representation of how likely you are to be interested,2022-08-19 22:24:24.163000+00:00,finn,
+"I agree with this, but your conclusion is false",2022-08-19 22:23:37.059000+00:00,finn,
+"As to question one: there are whole systems of recommendation (algorithms) built around the premise that you can infer a content or interest graph from a citation graph. But this result basically shows thats wrong. What you cite is not very closely related in meaning to your paper, despite the idea that what you cite is what you ""build on"" in your work. So, in a sense this empirically shows that what you cite is not necessarily similar all of the time.",2022-08-19 22:23:04.447000+00:00,andrepology,
+Also could you rephrase the second two questions? They don't make much sense to me right now,2022-08-19 22:20:08.029000+00:00,andrepology,<MessageReference message_id=1010309648986939502 channel_id=1002291205025050724 guild_id=977651180308160512>
+You can't send voice memos on discord,2022-08-19 22:19:50.922000+00:00,andrepology,
+Worse case - you send on telegram?,2022-08-19 22:17:41.684000+00:00,EllieDeSota,
+Haven't tried,2022-08-19 22:17:34.768000+00:00,EllieDeSota,
+No clue,2022-08-19 22:17:30.076000+00:00,EllieDeSota,
+Where is the button,2022-08-19 22:14:58.014000+00:00,finn,
+Ye!,2022-08-19 22:12:40.619000+00:00,EllieDeSota,
+Frustrating to type everything out,2022-08-19 22:12:18.864000+00:00,finn,
+Can I voice memo on discord,2022-08-19 22:12:07.531000+00:00,finn,
+Yes,2022-08-19 22:11:50.436000+00:00,finn,
+Also! Are either of you guys <@752493639174717492> <@956585029524402226> going to write a brief on IPFS and how were using it for protocol? If not I can write up something brief based on strategy instead of technical bits.,2022-08-19 22:10:53.453000+00:00,EllieDeSota,
+Wondering tho - is it bc citations are inherently biases towards showing stuff that actually isn't that similar to your own work? (otherwise you can't justify it). Or in a less - grr bad scientist - way you've done the research and if you had found the similar things you wouldn't have done it. Follow up tho - how are you calculating distance? (and is it based on semantic spaces bc If so then isn't the semantic embeddings inherently going to be better bc that's what you're comparing against? Not sure on this tho),2022-08-19 22:09:50.964000+00:00,EllieDeSota,
+Ahhhh this is so cool!!,2022-08-19 22:06:53.518000+00:00,EllieDeSota,
+"I started thinking about that a little bit, but needs more work",2022-08-19 21:38:03.166000+00:00,finn,
+Very much up for applying semantic spaces in other domains,2022-08-19 21:37:51.933000+00:00,finn,<MessageReference message_id=1010301457301504021 channel_id=1002291205025050724 guild_id=977651180308160512>
+"tl;dr social graphs suck. they don't capture meaning well and reinforce biases. semantic spaces are superior and now we can recreate stuff with them at the core. 
+
+
+^ and I wonder if we can generalise this space to other media that *may* be profitable.",2022-08-19 21:37:17.914000+00:00,andrepology,
+"but its also kind of why the results have been so good so far controlling for how tiny the database is: like, I got a good survey of recommendation algorithms on friggin PLOS.",2022-08-19 21:35:58.873000+00:00,andrepology,<MessageReference message_id=1010300549280841771 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Completely agree with your last comment, was weird to me how much semantic separation there is between cited papers",2022-08-19 21:33:41.425000+00:00,finn,
+"like, I totally expected a much higher overlap of distances between both sets of neighbors (citation vs semantic) 
+
+also, read this <@694931462763446363> <@752493639174717492> : https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep
+
+I really want to frame semantic spaces as a solution to graph design problems outlined here. Its a very neat mental model to communicate the potential of the tech we're working with.",2022-08-19 21:32:53.693000+00:00,andrepology,
+I think its interesting because we see this pattern **despite** being so sparse,2022-08-19 21:31:28.689000+00:00,andrepology,<MessageReference message_id=1010299812924620810 channel_id=1002291205025050724 guild_id=977651180308160512>
+"I get what you mean though, it’s interesting",2022-08-19 21:30:45.864000+00:00,finn,
+It’ll be a very inaccurate measure rn because our paper count is too low and too highly constrained,2022-08-19 21:30:26.878000+00:00,finn,
+itd be interesting to riff on that and see how many n-order citation links we need to generate to enclose the same number of semantically close papers ie is the citation graph fully connected?,2022-08-19 21:29:40.189000+00:00,andrepology,<MessageReference message_id=1010299113033715812 channel_id=1002291205025050724 guild_id=977651180308160512>
+Type of work you’re doing is really valuable supplement this this scrappier research,2022-08-19 21:29:38.067000+00:00,finn,<MessageReference message_id=1010299113033715812 channel_id=1002291205025050724 guild_id=977651180308160512>
+"My most recent document in response to Protocol labs basically argues that initial separation is key, and that reference relationships are the best way to achieve t",2022-08-19 21:29:06.922000+00:00,finn,
+I was testing separation implicitly through the number of replicated papers when calling nearest neighbors of references,2022-08-19 21:27:58.997000+00:00,finn,
+"This is what the experiment is: 
+1. Take a source paper
+2. Retrieve its n local citation graph (the papers it cites, the papers that cite it) as embeddings (Blue)
+3. Retrieve its n local neighbours in our tiny semantic space (Orange)
+4. Calculate the distances between the source papers and its citation-linked papers and neighburs
+5. Plot the histograms on same axis
+
+This is a really striking result for two reasons. 
+
+First,  and most important, even in our terribly small database, the nearest neighbours are closer in meaning (mean ~60) than the citation-linked papers (mean ~85, see plot above). As such, this is what confirms the hypothesis that semantic spaces de-bias or enrich or trouce the citation graph: you get much better results that paper-trails just by looking at things closeby in meaning. This is a quantitative reconfirmation of stuff we've seen with user tests // another way of making sense of why it works. The overlap of nearest neighbors and citation graph is also quite small, though this will improve as the database gets richer. 
+
+Second, the wide spread in citation-linked papers (which I think you stumbled upon and called ""separation"" <@752493639174717492> though the experiments weren't well documented) might situate a paper in different contexts. ie you cite something that may not be related directly but could be ""seminal"" ie the ""tipping my hat"" cronyism citations inherent in citation graphs.",2022-08-19 21:26:18.123000+00:00,andrepology,
+sharing a striking preliminary result re: semantic spaces being much richer that a citation (sic. social) graph. will write this up in detail for protocol response,2022-08-19 21:03:41.957000+00:00,andrepology,
+Ah okay lit!,2022-08-19 15:27:21.736000+00:00,EllieDeSota,<MessageReference message_id=1010067892563349585 channel_id=1002291205025050724 guild_id=977651180308160512>
+"This is more in the general area of ""new problems that we can solve that are tangential to academia""",2022-08-19 06:09:11.741000+00:00,finn,
+Noted. I'm not asking about search or Abstract Poetry at all though,2022-08-19 06:08:37.988000+00:00,finn,
+"Not sure if you already sent this out - but I wouldn't compare with academia. There isn't necessarily a reason why he would know and we already know about academia. I'd revert back to the types of search question we had previously -> What are the different modes of search that you engage in? For the second question - maybe root it i the most time-consuming/repetitive? 'issues' seemed to return null results. And for the final question -> how does your research tie into the work that Google does? (more specific, and avoids the slightly confusing reference to academic search when you've been contrasting it as different than his work, but I think you're trying to get to how his research feeds into google)",2022-08-19 06:07:42.194000+00:00,EllieDeSota,
+Perf for me,2022-08-19 04:19:43.569000+00:00,andrepology,
+"anyone have any addendums, thoughts, etc. before i do?",2022-08-19 04:19:31.731000+00:00,finn,
+This is what i'm sending to Google researcher,2022-08-19 04:19:22.032000+00:00,finn,
+"Hello! I’m a classmate of Mark Gacoka and a researcher building tools to support open science. Most recently, I’ve been working on an open-source peer-review collaboration platform and a semantic search engine designed to supplement keyword search. The most recent demo for the search engine is here, if you’re interested!
+
+My team and I are looking to build tools for researchers in industry as well as academia, but most of our network comprises of scientists that don’t have much insight into the workflows of big tech and the problems faced by researchers like you. 
+
+Would you have twenty to thirty minutes to spare at any point to answer some questions about research in industry? Specifically, some of my questions are:
+    •    What does a research workflow look like in industry, and how might it differ from research in academia?
+    •    What are the biggest issues with your research workflows right now? What tools and would be most helpful to have?
+    •    How does academic research tie into the rest of the work that companies like Google do?
+
+
+ If you have the time for a meeting, this Calendly link should help with scheduling:
+
+Kind regards, Finn",2022-08-19 04:19:14.408000+00:00,finn,
+"Hello, quickly:",2022-08-19 04:19:10.374000+00:00,finn,
+Yah - I agree. I am excited about collabing on getting our insights and learnings out of this as well and figuring where we go next :)),2022-08-19 04:08:49.634000+00:00,EllieDeSota,
+"It's ironic that we nailed the Collab on product thinking but forgot about deep user development with civicdash but didn't nail the product thinking Collab and nailed user development with abstract poetry. 
+
+That said, I want to pause and step back and say: as long as we internalize and formalize this, and because of who the three of us are, we won't make the same mistake again. Which is why I'm so excited for what we do next, but also why it's important to ""make peace"" what has happened :  reflect and be grateful for what happened over 6 weeks, because it'd be tragic to make this kind of mistake when we do get 6 months of time. We are learning from small experiments",2022-08-19 04:05:55.377000+00:00,andrepology,
+"Overall,
+
+I'm content. 
+
+I think that it takes some perspective and agreeing that we *did* go in wanting to ""capture imagination"", which auspiciously or inauspiciously means not having a full-blown or fundable or revenue-generating project.
+
+That said, I agree with Ellie in that the critical thing we're missing is not a quorum of user interviews or a user driven framework, but a follow through on translating those insights to product decisions. Unlike civicdash, I felt like I shouldered a lot of the product thinking, which was fraught with bias here because, as you rightly said earlier <@752493639174717492>, I was in love with the idea of generous interface and a new technology that enabled human in the loop. That said, I think in hindsight I wish we collaborated on the design thinking more like we did with civicdash, where I open the diamond and you closed or vice versa. It may or may not have advanced the demo to a product (again, we did go this in a very short amount of time), but I think it goes to show that we did not have a spec that the three of us wrote and agreed on together outlining the concept and vision: what Ellie sent to the Minerva alum was a riff of what I wrote over that weekend in turkey. 
+
+I don't regret it at all. I'm very proud to show it to others, but I think the next time round, whether it's abstract Poetry v2 or something new, I think my biggest learning is to make sure we're as synced on the concept and product as we are on the development. Because in many ways the former is the constraint and the former is scarce. We can pump out extremely high quality demos really quickly and increasingly so. But clear conceptual thinking is harder.",2022-08-19 04:05:52.928000+00:00,andrepology,
+understanding IPFS really deeply so that I can talk technically with Protocol Labs,2022-08-19 03:55:46.975000+00:00,finn,
+i'll keep on going with my product strategy stuff today,2022-08-19 03:55:32.578000+00:00,finn,
+agreed,2022-08-19 03:55:23.137000+00:00,finn,
+I'll write up reflections tomorrow and we should continue,2022-08-19 03:55:19.441000+00:00,andrepology,
+no crying on the discord,2022-08-19 03:55:13.238000+00:00,finn,
+keep it bottled up inside,2022-08-19 03:55:07.858000+00:00,finn,
+emotions are for losers,2022-08-19 03:54:53.314000+00:00,finn,
+raaaaaaaaa,2022-08-19 03:54:43.662000+00:00,EllieDeSota,
+Whaaaa,2022-08-19 03:54:33.755000+00:00,andrepology,
+Crying,2022-08-19 03:53:45.858000+00:00,EllieDeSota,
+Ellie what are you doing,2022-08-19 03:38:26.192000+00:00,andrepology,
+OH SHIT,2022-08-19 03:38:21.057000+00:00,EllieDeSota,
+Yeah,2022-08-19 03:38:00.125000+00:00,andrepology,
+The Masasson one?,2022-08-19 03:37:37.026000+00:00,EllieDeSota,
+soda can still figuring out how zoom works,2022-08-19 03:37:35.193000+00:00,finn,
+Zoom,2022-08-19 03:37:20.415000+00:00,andrepology,
+Join what tho,2022-08-19 03:36:54.683000+00:00,EllieDeSota,
+Projecting on yo mama,2022-08-19 03:36:52.914000+00:00,andrepology,
+Yeee,2022-08-19 03:36:51.487000+00:00,EllieDeSota,<MessageReference message_id=1010029539323289651 channel_id=1002291205025050724 guild_id=977651180308160512>
+That sounds like a bad idea,2022-08-19 03:36:47.662000+00:00,EllieDeSota,
+Can you guys join,2022-08-19 03:36:47.616000+00:00,andrepology,
+Projecting onto An?,2022-08-19 03:36:44.687000+00:00,EllieDeSota,<MessageReference message_id=1010029483824267315 channel_id=1002291205025050724 guild_id=977651180308160512>
+MOOD,2022-08-19 03:36:37.910000+00:00,EllieDeSota,<MessageReference message_id=1010029461778993183 channel_id=1002291205025050724 guild_id=977651180308160512>
+Why am I projecting again aghhh,2022-08-19 03:36:34.384000+00:00,andrepology,
+Long distance sucks,2022-08-19 03:36:29.128000+00:00,andrepology,
+lol it was for a moment,2022-08-19 03:36:20.253000+00:00,andrepology,
+howd that go?,2022-08-19 03:36:12.951000+00:00,EllieDeSota,<MessageReference message_id=1010029344246222860 channel_id=1002291205025050724 guild_id=977651180308160512>
+OH also - random Prof Ozluk said he'd be down to keep doing meetings and helping with the business side throughout the sem,2022-08-19 03:36:07.186000+00:00,EllieDeSota,
+Had a one on one with An,2022-08-19 03:36:01.106000+00:00,andrepology,
+Phylogeny of science is a giant hierarchical clustering model,2022-08-19 03:35:49.515000+00:00,andrepology,<MessageReference message_id=1010029023411310603 channel_id=1002291205025050724 guild_id=977651180308160512>
+AHHH yah,2022-08-19 03:35:37.468000+00:00,EllieDeSota,<MessageReference message_id=1010029108941570068 channel_id=1002291205025050724 guild_id=977651180308160512>
+Nicee. Thanks for catching all those comments!,2022-08-19 03:35:11.864000+00:00,EllieDeSota,<MessageReference message_id=1010028475077361734 channel_id=1002291205025050724 guild_id=977651180308160512>
+yay great job,2022-08-19 03:35:05.005000+00:00,finn,
+"the login is blocked, but the website is right",2022-08-19 03:34:55.791000+00:00,finn,
+"^ Mishaal linked us to this, it's an academic search tool that builds a phylogeny of science",2022-08-19 03:34:44.613000+00:00,finn,
+https://galeapps.gale.com/apps/auth?userGroupName=westmountci&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2FtermCluster%3FinPS%3Dtrue%26userGroupName%3Dwestmountci%26prodId%3DSCIC&prodId=SCIC,2022-08-19 03:34:16.915000+00:00,finn,
+Thanks mee6 now shut the fuck up,2022-08-19 03:32:46.222000+00:00,andrepology,<MessageReference message_id=1010028477224865803 channel_id=1002291205025050724 guild_id=977651180308160512>
+"GG <@956585029524402226>, you just advanced to level 5!",2022-08-19 03:32:34.392000+00:00,MEE6,
+This program is not getting renewed lol,2022-08-19 03:32:33.880000+00:00,andrepology,
+I'm sure Benny gets called that when his partner gags him,2022-08-19 03:32:10.163000+00:00,andrepology,<MessageReference message_id=1010028189080367114 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Finally, someone calling me not mark zuckerberg",2022-08-19 03:32:06.931000+00:00,finn,
+He's always canvasing for Minerva,2022-08-19 03:31:32.266000+00:00,andrepology,
+Everyone who says best and brightest makes me want to gag a little bit,2022-08-19 03:31:25.693000+00:00,EllieDeSota,
+"Biggest customary glib japanese remarks coming from Dan, are we surprised?",2022-08-19 03:31:12.960000+00:00,finn,
+He should be called Caniel Curme,2022-08-19 03:31:11.094000+00:00,andrepology,
+Fr fr,2022-08-19 03:29:46.772000+00:00,EllieDeSota,
+i'm looking forward to the team finding it too 😢,2022-08-19 03:29:28.535000+00:00,finn,
+"was talking to Gacoka, he's happy to connect us to a senior researcher at Google",2022-08-19 03:26:01.004000+00:00,finn,
+customary glib japanese remarks in progress,2022-08-19 03:25:00.125000+00:00,andrepology,
+dan is such a chad,2022-08-19 02:29:09.742000+00:00,finn,
+^customary glib japanese remark u fucking homies we better have a startup next year,2022-08-19 02:16:28.393000+00:00,andrepology,
+Good luck teammmm! I **loved** working with you this summer and wouldn't trade it for anything.,2022-08-19 02:16:10.223000+00:00,andrepology,
+"Looking into it all now, very basic architecture",2022-08-19 02:10:59.838000+00:00,finn,
+Current IPFS search is extremely centralised,2022-08-19 02:10:51.815000+00:00,finn,
+What is happening lol,2022-08-19 02:07:38.294000+00:00,andrepology,
+oh yeah,2022-08-19 02:05:44.155000+00:00,finn,
+I think it starts at 7:10 ?,2022-08-19 02:05:18.693000+00:00,EllieDeSota,
+Actually,2022-08-19 02:05:14.075000+00:00,EllieDeSota,
+Also,2022-08-19 02:02:26.524000+00:00,EllieDeSota,
+Same,2022-08-19 02:01:54.718000+00:00,andrepology,
+Waiting for entry into the meeting,2022-08-19 02:01:43.934000+00:00,finn,
+Actually - I don't care about this for this presentation because they're not going to fund in any scenario. So we can keep it as is.,2022-08-19 01:11:08.546000+00:00,andrepology,<MessageReference message_id=1009992193743781909 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Hmm - <@956585029524402226> both Watson and Ozluk said that I should include it. And I've done the math out on a spreadsheet which I shared in our call yesterday to justify it. And 'seed to work for 6 months' feels even less specified and like we're making stuff up than 200,000 I could include more representation of the work done to come to that number but also then it seems more fixationy. But I'm also not sure why going vaguer would be better in this situation?",2022-08-19 01:08:23.736000+00:00,EllieDeSota,
+"<@694931462763446363> I think we shouldn't include the ask of $200k. It feels arbitrary and tacked on, I think it's better to describe how we just want a seed to be given time to work ie 6 months instead of 6 weeks. $200k is visceral and becomes a focal point/fixation that we can't really justify",2022-08-19 00:38:19.462000+00:00,andrepology,
+"Btw, it's too long, included lots of detail because we can use it elsewhere later",2022-08-19 00:29:27.639000+00:00,finn,
+Going to get breakfast and then work on the future-facing sections of the write-up,2022-08-19 00:29:04.781000+00:00,finn,
+"GG <@752493639174717492>, you just advanced to level 8!",2022-08-19 00:28:07.299000+00:00,MEE6,
+First part of technical write-up done,2022-08-19 00:28:06.846000+00:00,finn,
+Ok added the video <@694931462763446363>,2022-08-19 00:01:29.672000+00:00,andrepology,
+Fixeedddd,2022-08-18 23:16:47.934000+00:00,EllieDeSota,
+<@694931462763446363> requested access,2022-08-18 23:11:42.373000+00:00,andrepology,
+Marooned by Pink Floyd. So good.,2022-08-18 23:09:00.790000+00:00,andrepology,<MessageReference message_id=1009962078490071171 channel_id=1002291205025050724 guild_id=977651180308160512>
+<@694931462763446363> I do need you to give me access,2022-08-18 23:08:47.790000+00:00,andrepology,
+what u listening to on spotify andre,2022-08-18 23:08:43.700000+00:00,finn,
+Tank uu!,2022-08-18 23:08:26.281000+00:00,EllieDeSota,
+<@694931462763446363> Ill make sure its the exact same flow and timing,2022-08-18 23:08:18.275000+00:00,andrepology,
+"you're right. I'll actually just record the thing locally for now and add it to the canva, thanks <@694931462763446363> for sending the link.",2022-08-18 23:08:06.428000+00:00,andrepology,<MessageReference message_id=1009961002235859084 channel_id=1002291205025050724 guild_id=977651180308160512>
+"i don't care if you hide user stuff for the video, but unhide it for the production version. Doesn't make sense to hide our best way of tracking users on the day of the presentation",2022-08-18 23:04:27.101000+00:00,finn,<MessageReference message_id=1009959878145622097 channel_id=1002291205025050724 guild_id=977651180308160512>
+Note on this - bc of transit etc I likely won't be able to put together the gifs and vids we need to update the canva in time. If it's super duper important to you I can either whip it up during the presentation time while others are presenting or you can update at the canva here: https://www.canva.com/design/DAFJs59n4hk/57BhD33i0zvD3T5sqMiDCA/edit,2022-08-18 23:03:37.068000+00:00,EllieDeSota,<MessageReference message_id=1009959878145622097 channel_id=1002291205025050724 guild_id=977651180308160512>
+"okay, sounds good",2022-08-18 23:00:20.999000+00:00,finn,
+You can start protocol though and I'll join,2022-08-18 23:00:15.199000+00:00,andrepology,
+Should take 20-30 mins,2022-08-18 23:00:07.182000+00:00,andrepology,
+I think I want to finish the styling bumps I started yesterday and push. It's important to me that the video we show is with the updated UI. For now it might mean hiding the login/user stuff until I figure out where to put it,2022-08-18 22:59:59.097000+00:00,andrepology,
+np,2022-08-18 22:59:27.587000+00:00,finn,
+I'm going to go gather sticks from Noisebridge so will be out for a bit.,2022-08-18 22:59:18.329000+00:00,EllieDeSota,
+"okey dokie, vach let's do protocol labs stuff?",2022-08-18 22:58:06.967000+00:00,finn,
+Responding to protocol labs,2022-08-18 22:57:57.755000+00:00,EllieDeSota,<MessageReference message_id=1009959102409101414 channel_id=1002291205025050724 guild_id=977651180308160512>
+That landing page was extremely annoying to do admittedly,2022-08-18 22:57:53.418000+00:00,andrepology,
+"yay, let's do it",2022-08-18 22:57:46.750000+00:00,finn,
+I can work on both of these with you,2022-08-18 22:57:38.367000+00:00,andrepology,<MessageReference message_id=1009959102409101414 channel_id=1002291205025050724 guild_id=977651180308160512>
+is highest priority for me EV grant revision or responding to protocol labs?,2022-08-18 22:56:54.147000+00:00,finn,
+"ya, 3 hours",2022-08-18 22:56:45.558000+00:00,finn,
+presentation is in a couple hours right?,2022-08-18 22:56:39.555000+00:00,andrepology,
+"yep, i'll do this",2022-08-18 22:56:12.956000+00:00,finn,<MessageReference message_id=1009958070417363065 channel_id=1002291205025050724 guild_id=977651180308160512>
+"hello, up and working now",2022-08-18 22:53:00.328000+00:00,finn,
+Bringing this back down to the bottom so yall can share links during the pres in addition to the landing page!,2022-08-18 22:52:48.101000+00:00,EllieDeSota,<MessageReference message_id=1006364858863845406 channel_id=1002291205025050724 guild_id=977651180308160512>
+,2022-08-18 22:52:20.362000+00:00,EllieDeSota,<MessageReference message_id=1006364858863845406 channel_id=1002291205025050724 guild_id=None>
+mobile updated too,2022-08-18 22:48:23.825000+00:00,andrepology,
+https://readymag.com/u192065531/3832227/,2022-08-18 22:48:20.442000+00:00,andrepology,
+"GG <@694931462763446363>, you just advanced to level 7!",2022-08-18 22:41:42.486000+00:00,MEE6,
+Thank you!!,2022-08-18 22:41:42.046000+00:00,EllieDeSota,
+kind of a waste of time but whatever,2022-08-18 22:22:45.399000+00:00,andrepology,
+Ok landing page is nearly done,2022-08-18 22:22:36.588000+00:00,andrepology,
+Went through and edited EV - need some details to figure out how much it would cost to train our own semantic algorithm + some input on if we're good representing our next steps as the ones i've included there. Otherwise - feedback helpful! https://curl-projects.notion.site/Emergent-Ventures-Proposal-Drafts-1a6bdf52dd1a4d20ab49078d159e14da,2022-08-18 21:07:07.276000+00:00,EllieDeSota,
+Added,2022-08-18 20:28:16.203000+00:00,EllieDeSota,<MessageReference message_id=1009918135324913674 channel_id=1002291205025050724 guild_id=977651180308160512>
+There are also a couple of additional papers on IPFS + some notes in that doc. Will add it to the IPFS doc,2022-08-18 20:14:06.833000+00:00,EllieDeSota,
+Also! Finn - you said you wanted to write the IPFS stuff. As a note it would be super helpful if we could parallelize that stuff with the actual grant application. Instructions + the Google Doc Template that they put together is here - https://curl-projects.notion.site/Protocol-Labs-4d984489870d4a5a868d8dc6acb231b8,2022-08-18 20:13:48.639000+00:00,EllieDeSota,
+https://www.notion.so/curl-projects/Protocol-Labs-Email-Proposal-e61499e91fc644cd9545bb8d15bec4a2 -> Business stuff wrote out. Needs some cutting + editing. I'll return to this after a foray into EV. If yall have any thoughts in the meantime lmk!,2022-08-18 20:07:29.855000+00:00,EllieDeSota,
+Lit lit!,2022-08-18 18:43:45.585000+00:00,EllieDeSota,
+You can drop it in. I'm impartial to the Canva,2022-08-18 18:39:57.945000+00:00,andrepology,
+<@956585029524402226> I see you on the figma. Can we/should we jump on a call to sync so I can drop all this stuff into canva or are you fine with it as it is?,2022-08-18 18:04:33.922000+00:00,EllieDeSota,
+Oh also disclaimer. When I panic write i capitalize things and my writing turns super aggressive - none of this aggression is targeted at either of you! Yall are wonderful - and I was genuinely so excited to get what we did out of our meeting. This is just one potential add on,2022-08-18 06:40:06.347000+00:00,EllieDeSota,
+Sweet - see you tomorrow!,2022-08-18 06:36:57.461000+00:00,EllieDeSota,<MessageReference message_id=1009712329870553178 channel_id=1002291205025050724 guild_id=977651180308160512>
+"sounds good, I’ll think about stuff tonight",2022-08-18 06:36:18.989000+00:00,finn,
+"I'm heading to bed now - my tomorrow looks like -> Presentation fixes, Protocol Labs Email, And EV second pass.",2022-08-18 06:35:59.180000+00:00,EllieDeSota,
+Read through it,2022-08-18 06:35:13.947000+00:00,finn,
+"TLDR - It seems like we want to work together and staking our working together on getting funding for a startup (a notoriously unlikely thing) seems like a bad idea. So yes let's jump ship if that gives us better chances of doing that, but also our failure case for working together should not be 'we don't get funding'. There are many ways to get money and continue to work together without be recognized for our briliant startup idea that we patched together in 4 months while traveling/doing school/ and having social lives (maybe). What are the ways that we can diversify our back up plans so that most of them still involve working together?",2022-08-18 06:34:22.871000+00:00,EllieDeSota,
+https://www.notion.so/curl-projects/Ellie-Rock-Guy-Reflections-cfe496418c2e4bd6a3098ae74bb70122,2022-08-18 06:31:31.717000+00:00,EllieDeSota,
+"YALL - my logistics call turned out to be fruitful re my weird feeling in the call when I was like... jumping ship seems like it's kinda a bad idea and finn was like 'Sunk Cost' and I was like... maybe?? I don't think it was sunk cost now and I panic wrote this very long doc (tried to create a summary) in about 20 minutes describing my thoughts. Read/Comment if you like. Otherwise, next time we meet I'll talk you through.",2022-08-18 06:31:27.317000+00:00,EllieDeSota,
+spent a couple hours fine tuning the design. will spend an hour or two at most tomorrow and then want to make peace with it.,2022-08-18 05:27:12.101000+00:00,andrepology,
+Forgot to send this - https://www.notion.so/curl-projects/IPFS-Summary-Research-5451f99dc5df45baa4a166138754d997 here's the ipfs doc. Am in the middle of adding to it but got on a SD logistics call,2022-08-18 03:43:06.190000+00:00,EllieDeSota,
+"NOTE - other things I took away/extrapolated from that meeting was a strategy for talking to Protocol labs. All the business like stuff will focus on what we have done concretely, but also represent AP as learning how to interface with Semantic Spaces + search it well. This way we represent the work we've done, but in a way that helps us emphasize how we would at the base level integrate with IPFS as the core value add that we'd be thinking of for them",2022-08-18 02:01:45.294000+00:00,EllieDeSota,
+https://us05web.zoom.us/j/84687058317?pwd=MWQrQkRUd01KS0g5ZmFFUmx1bSs1QT09,2022-08-18 01:15:16.071000+00:00,finn,
+https://www.notion.so/curl-projects/AP-Strategy-Meeting-Notes-edd1bf497cc3496485288439734949f6,2022-08-18 00:37:04.564000+00:00,finn,
+yeee,2022-08-18 00:34:57.593000+00:00,EllieDeSota,
+zoom?,2022-08-18 00:34:46.703000+00:00,finn,
+https://us05web.zoom.us/j/87372314989?pwd=ckdIbm5WK2dZV1hxQVZwMTJvejY3dz09,2022-08-18 00:34:45.092000+00:00,finn,
+Yo - are yall in teh waiting room?,2022-08-18 00:05:00.984000+00:00,EllieDeSota,
+"Don’t worry Ellie, I think there’s an exponential decay function governing level growth, we’re safe",2022-08-18 00:02:52.271000+00:00,finn,
+Really catching up thar eh?,2022-08-18 00:02:16+00:00,EllieDeSota,
+GG <@956585029524402226> !,2022-08-18 00:02:03.742000+00:00,finn,
+Think they have to start it still,2022-08-18 00:01:59.341000+00:00,EllieDeSota,
+"GG <@956585029524402226>, you just advanced to level 4!",2022-08-18 00:01:47.477000+00:00,MEE6,
+im joining now,2022-08-18 00:01:47.001000+00:00,andrepology,
+Oki,2022-08-18 00:01:32.100000+00:00,EllieDeSota,
+5 mins max,2022-08-18 00:00:30.969000+00:00,finn,
+Making oats and then coming,2022-08-18 00:00:26.341000+00:00,finn,
+"Ah, we have Jin meeting",2022-08-18 00:00:21.924000+00:00,finn,
+Gimme 5-10 mins gonna have quick shower,2022-08-17 23:55:58.363000+00:00,andrepology,
+Yes,2022-08-17 23:53:46.498000+00:00,EllieDeSota,
+Wait do we have meeting with Jin now too?,2022-08-17 23:53:15.696000+00:00,andrepology,
+got it,2022-08-17 23:51:56.766000+00:00,andrepology,
+I lost my macbook charger looking for another now,2022-08-17 23:46:06.029000+00:00,andrepology,
+Im free,2022-08-17 23:45:57.064000+00:00,andrepology,
+Perfect.,2022-08-17 22:30:39.463000+00:00,EllieDeSota,
+10am my time? (When you’re finished with Roote),2022-08-17 22:28:54.588000+00:00,finn,
+Aight so what time are we meeting?,2022-08-17 22:23:43.371000+00:00,EllieDeSota,
+I will be back within the next two hours (1.5 to 2 hours). Or we can do much later after you're back from the city (in like 6 hour or whenever). I'm much freer now that gal has left,2022-08-17 21:30:39.571000+00:00,andrepology,
+I've got a meeting at 7pm your time Andre. Can meet at 8 est (should be 10 am aus),2022-08-17 21:29:55.304000+00:00,EllieDeSota,
+"I have to go into the city today to exchange money for Rio, but can bring my laptop and meet there",2022-08-17 21:28:34.785000+00:00,finn,
+When specifically? It’s hard to plan the stuff I need to do with vague meeting times,2022-08-17 21:28:14.995000+00:00,finn,
+Can we do in a couple hours?,2022-08-17 21:20:28.538000+00:00,andrepology,
+I'm out taking my cousins swimming,2022-08-17 21:20:21.172000+00:00,andrepology,
+Sweet - give me 15 and I'll be free as well,2022-08-17 21:11:22.956000+00:00,EllieDeSota,
+"I’m free to call at any point, just getting coffee",2022-08-17 21:10:29.020000+00:00,finn,
+No worries - they let us present anyways and we've done this lots already 😛,2022-08-17 21:08:47.688000+00:00,EllieDeSota,
+Awake now,2022-08-17 21:07:54.765000+00:00,finn,
+"Shit, slept through my alarm",2022-08-17 21:07:44.286000+00:00,finn,
+"Also <@752493639174717492> <@956585029524402226> -> seems like yall would almost be guarenteed a job at Ought (the ppl who make elicit) given work with AP. Not sure if these are jobs that you would decide on earlier than you'd like, but could be worth looking into https://ought.org/careers",2022-08-17 20:04:50.019000+00:00,EllieDeSota,
+"Hey yall - I am currently building out my thinking of where we might be able to go with AP in the hypothesis document here under the heading ""End of Summer Direction Possibilities"". I'm hoping this can organize our call a little bit https://www.notion.so/curl-projects/Abstract-Poetry-Hypotheses-87ba06cbf7784a6b80162a1585a30d66. ALSO - things I realized. I've got a Roote call at 4 pm my time/7 pm/9 am, we can call before until then, and then I can pop out and I can rejoin an hour later.",2022-08-17 19:34:26.622000+00:00,EllieDeSota,
+<@956585029524402226> <@752493639174717492>,2022-08-17 15:31:52.495000+00:00,EllieDeSota,
+Hey guys - coming?,2022-08-17 15:31:40.169000+00:00,EllieDeSota,
+should have some substantial ideas to throw at you by then,2022-08-17 02:01:11.980000+00:00,finn,
+"okay, i'll work on conceptual stuff until then",2022-08-17 02:01:02.933000+00:00,finn,
+Okeeee,2022-08-17 02:00:48.322000+00:00,EllieDeSota,
+Gals leaving tomorrow so I'll have time,2022-08-17 02:00:39.182000+00:00,andrepology,
+yeah that's fine with me,2022-08-17 02:00:31.765000+00:00,andrepology,
+I'm free all day (but generally) 3pm my time tomorrow which is when you normally wake up. <@956585029524402226> that's 6 for him tho,2022-08-17 01:59:57.876000+00:00,EllieDeSota,
+when are you guys free? can you suggest some times?,2022-08-17 01:59:27.902000+00:00,finn,
+yuh,2022-08-17 01:59:25.819000+00:00,EllieDeSota,
+we really just need face-to-face meetings,2022-08-17 01:59:17.671000+00:00,finn,
+Oki,2022-08-17 01:59:16.425000+00:00,EllieDeSota,
+"okey dokie, talk later",2022-08-17 01:59:11.519000+00:00,finn,
+Agh yah I agree. And all of this feels odd bc I'm kinda making stuff up to connect things to Protocol Labs. I agree on the criteria thing - but I need to jump into another call.,2022-08-17 01:59:03.804000+00:00,EllieDeSota,<MessageReference message_id=1009279690034384928 channel_id=1002291205025050724 guild_id=977651180308160512>
+"We could spin off and work on any number of random projects across Web3, DeSci, search, and semantic spaces. We need criteria to decide which of these directions we should pursue.",2022-08-17 01:58:18.906000+00:00,finn,
+Nothing we've done with AP has anything at all to do with knowledge graphs,2022-08-17 01:57:09.614000+00:00,finn,
+This discussion is so fragmented in my head that i don't have a conceptual framework to argue from,2022-08-17 01:56:55.035000+00:00,finn,
+Hybrid space ~= knowledge graphs using embeddings (what I'm working on at TS),2022-08-17 01:56:33.064000+00:00,andrepology,<MessageReference message_id=1009279352078340156 channel_id=1002291205025050724 guild_id=977651180308160512>
+This actually makes a lot of sense and is close to what I'm doing with tweetscape.,2022-08-17 01:55:54.926000+00:00,andrepology,<MessageReference message_id=1009279112822657024 channel_id=1002291205025050724 guild_id=977651180308160512>
+i don't think there's any specific direction implied in my sentence though?,2022-08-17 01:55:49.039000+00:00,finn,<MessageReference message_id=1009278958354833428 channel_id=1002291205025050724 guild_id=977651180308160512>
+Ye - I don't think this needs to be the original implementation. (And potentially it's completely ignored in this email) But it seems like the next step - and it's the most connection that we would have to Discourse Graphs which is Protocol Lab's shit. My current random thoughts on this - I think we could be the search for discourse graphs by training a semantic algorithm that takes in all the 'citations' of the claim node to understand the actual claim bc otherwise I see their whole idea of searching the graph to be nearly freaky and untenable (But that's mainly bc claims are essentially a sentance long -> and I haven't thought about this THAT much) (side note done - feel free to ignore),2022-08-17 01:54:51.996000+00:00,EllieDeSota,<MessageReference message_id=1009278715592708138 channel_id=1002291205025050724 guild_id=977651180308160512>
+"I think this is a promising direction. Also, the real win is if we do sciGPT with the same loss function as SPECTER. Owning that inherently has value. Plus we have access to the same papers SPECTER was trained on, and we can do online learning",2022-08-17 01:54:15.168000+00:00,andrepology,<MessageReference message_id=1009278574219513857 channel_id=1002291205025050724 guild_id=977651180308160512>
+Ellie was describing search for IPFS objects that aren't papers earlier,2022-08-17 01:53:17.289000+00:00,finn,
+Yah! Agree - it's not something that is hard. But it is something that we don't have proof of so if it is our main connection to Protocol Labs than we need to demonstrate intellectual work + a clear implementation plan otherwise it just looks like we're grasping at straws,2022-08-17 01:52:46.686000+00:00,EllieDeSota,<MessageReference message_id=1009278329507029042 channel_id=1002291205025050724 guild_id=977651180308160512>
+"if we had a paper, we'd always just use semantic scholar's embeddings unless we were trying to create a hybrid space for papers and not-papers",2022-08-17 01:52:43.583000+00:00,finn,<MessageReference message_id=1009278329507029042 channel_id=1002291205025050724 guild_id=977651180308160512>
+"If by training you mean generating embeddings from raw text (title + abstract), I know how to do that. Agreed about how to work with IPFS, not something we're familiar with but also, it's implementation.",2022-08-17 01:51:45.239000+00:00,andrepology,<MessageReference message_id=1009277860957130753 channel_id=1002291205025050724 guild_id=977651180308160512>
+i'm literally free all day from the moment i wake up to the moment i go to sleep,2022-08-17 01:50:21.694000+00:00,finn,
+I've got 10 more minutes but I'm heading off after that.,2022-08-17 01:50:09.461000+00:00,EllieDeSota,
+Agree.,2022-08-17 01:50:00.058000+00:00,EllieDeSota,
+kind of feeling disconnected in general because it's so hard to arrange a meeting with all three of us in it,2022-08-17 01:49:54.404000+00:00,finn,
+"GG <@694931462763446363>, you just advanced to level 6!",2022-08-17 01:49:53.981000+00:00,MEE6,
+Training our own semantic algorithm based on whatever criteria we decide is important.,2022-08-17 01:49:53.528000+00:00,EllieDeSota,<MessageReference message_id=1009277750210727936 channel_id=1002291205025050724 guild_id=977651180308160512>
+yep,2022-08-17 01:49:30.763000+00:00,EllieDeSota,<MessageReference message_id=1009277720041107557 channel_id=1002291205025050724 guild_id=977651180308160512>
+What is semantic tweaking?,2022-08-17 01:49:27.124000+00:00,andrepology,<MessageReference message_id=1009277519112978563 channel_id=1002291205025050724 guild_id=977651180308160512>
+DeSci nodes is and most ppl looking to go into the Web3/desci space. Natasha wants to use it,2022-08-17 01:49:25.964000+00:00,EllieDeSota,<MessageReference message_id=1009277661778026506 channel_id=1002291205025050724 guild_id=977651180308160512>
+wish this was an actual conversation rather than a text chain tbh,2022-08-17 01:49:19.931000+00:00,finn,
+IPFS is distributed file storage. That's basically it. Are there other people hosting papers on IPFS yet?,2022-08-17 01:49:06.040000+00:00,andrepology,<MessageReference message_id=1009277468429013127 channel_id=1002291205025050724 guild_id=977651180308160512>
+"We haven't done the work of figuring out how to index and search a decentralized database. And we haven't done the work of actually doing the semantic tweaking. (Again - similar to Finn, I don't think it's that we can't, we'd just have to convince them that it made sense and that what we have is a reasonable first step for them to believe that we can)",2022-08-17 01:48:32.026000+00:00,EllieDeSota,<MessageReference message_id=1009277212811337748 channel_id=1002291205025050724 guild_id=977651180308160512>
+"the search engine part maybe, but that wouldn't be the bulk of the project. we'd turn into an ArXiv competitor",2022-08-17 01:48:19.942000+00:00,finn,
+"this is definitely doable, it's just not at all related to what we're doing now",2022-08-17 01:47:56.858000+00:00,finn,<MessageReference message_id=1009277212811337748 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Haven't done what? I don't think implementing an algorithm in IPFS means anything. Storing open access papers using IPFS, and creating a registry of open access papers and then having a search engine over it does make sense.",2022-08-17 01:47:18.998000+00:00,andrepology,<MessageReference message_id=1009276719116603462 channel_id=1002291205025050724 guild_id=977651180308160512>
+I think this is why I see the connection to DeSci Nodes as so cool. As they start opening up nodes. They're already hosting papers on IPFS.,2022-08-17 01:47:18.638000+00:00,EllieDeSota,<MessageReference message_id=1009276868735795211 channel_id=1002291205025050724 guild_id=977651180308160512>
+Yes part of - but I think we should focus on the hard connections not the philosophical connections. Then we should go for a open science grant and it doesn't make sense for us to move into Web3 + Protocol Labs,2022-08-17 01:46:28.112000+00:00,EllieDeSota,<MessageReference message_id=1009276705992618004 channel_id=1002291205025050724 guild_id=977651180308160512>
+"hmmm, this isn't really possible for the current version of Abstract Poetry",2022-08-17 01:46:27.817000+00:00,finn,<MessageReference message_id=1009276868735795211 channel_id=1002291205025050724 guild_id=977651180308160512>
+We could potentially host papers on IPFS,2022-08-17 01:45:56.964000+00:00,andrepology,<MessageReference message_id=1009276610526064680 channel_id=1002291205025050724 guild_id=977651180308160512>
+"yeah, we don't actually have any experience with tweaking semantic encoders, we'd have to do some foundational work on that",2022-08-17 01:45:54.844000+00:00,finn,<MessageReference message_id=1009276719116603462 channel_id=1002291205025050724 guild_id=977651180308160512>
+"The difficulty is -> we haven't done this. We haven't proven anything in regards to that connection, so we'd be literally making it up. Which if we do our research can be done,,, but something to note",2022-08-17 01:45:21.292000+00:00,EllieDeSota,
+"Well, part of web3 philosophy is democratizing ~= equal access. Semantic spaces are ""truer"" in the sense that they mitigate the problems  of citation graph. 
+
+Another possibility is working with/building on Halogen and integration with skepsi",2022-08-17 01:45:18.163000+00:00,andrepology,
+Yah - I think the main thing that we would be synergizing with would be -> hey we've got this algorithm and we want to learn how to implement it in IPFS. IPFS is decentralised and so has shit ways of search bc this problem hasn't been solved super much - started a brief research doc with some ppl who have approached it,2022-08-17 01:44:55.402000+00:00,EllieDeSota,<MessageReference message_id=1009276289233985708 channel_id=1002291205025050724 guild_id=977651180308160512>
+"On the desci nodes space (this would be our connection to Web3) -> they're doing annotations, and I could see semantic embeddings of those being super helpful as people search through their IPFS structure (ALSO - semantic search and even keyword search isn't super well implemented in IPFS so this is something that to their question we're going to need to think about)",2022-08-17 01:44:02.908000+00:00,EllieDeSota,<MessageReference message_id=1009275921150263427 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Web3 doesn't have any strong connections with what we're currently doing, can think about possible product/alg directions in that space",2022-08-17 01:43:38.800000+00:00,finn,
+"I have very little expertise in the R&D space, might give us a lot of new problems to work with",2022-08-17 01:42:51.504000+00:00,finn,
+"Ya, unrelated to protocol labs",2022-08-17 01:42:29.451000+00:00,finn,
+Can see this as a potential option. But not one that Protocol Labs would vibe with. Put it somewhere in the funding space doc and I can return to this after we figure out Protocol?,2022-08-17 01:42:11.042000+00:00,EllieDeSota,<MessageReference message_id=1009275420627193888 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Related to the connections to DeSci. In terms of product thinking -> we can show what we've done so far which I think is great. But agree in general with the vibe that we need to do some solid strategizing. What I've found as the most synergistic companies/products in DeSci are DeSci Nodes, Discourse Graphs, and Delv/Elicit (those are more desci adjacent). But the best connections to those are not on the interface level -> they're on the infrastructure/semantic search level.",2022-08-17 01:41:33.589000+00:00,EllieDeSota,
+Maybe we should be talking to researchers in big tech ? We could probably leverage our existing networks pretty easily,2022-08-17 01:41:23.105000+00:00,finn,
+"Very similar domain of academic research (?), much much higher ability to extract profit",2022-08-17 01:40:36.989000+00:00,finn,
+Misc. thought worth exploring: What if we built products for R&D instead of science? What are the big problem spaces there?,2022-08-17 01:40:11.708000+00:00,finn,
+Yo - been a bit out of it today. But filling in in on some details - there are several factors to consider relating to Protocol Labs. The people they currently fund/the things they're currently involved in is explicitly Web3 technologies + ways of improving the 'network' or decentralization of the web x academia. If you go on their site - they have a huge amount of mainly academic Web3 research papers cited and we would be applying as researchers (we need a formal PI -> likely Watson and we would be student researchers). That being said there is a bunch of product stuff and the main project that Protocol is currently focusing on is called Discourse Graphs and it's a product that is integrated with Roam Research to improve researcher work flows + create a way of linking evidence to claims.,2022-08-17 01:38:47.191000+00:00,EllieDeSota,
+Making notes in the Bibliographies! page,2022-08-17 01:35:05.760000+00:00,finn,
+<@694931462763446363> looking through bibliography stuff in user interview notes,2022-08-17 01:34:57.416000+00:00,finn,
+"I will say that the next design phase really excites me too; both because we can involve researchers directly to figure out what workflow to build / how to build to make it an irreplaceable tool in workflow, but also integrating some of my tweetscape work into this again: the question of how to grow/prune knowledge graphs is essentially what I'm working on. And the secret seems to be use ""layers"" of graphs based on a semantic space",2022-08-17 01:27:07.181000+00:00,andrepology,
+"ah, okay, that's fine then!",2022-08-17 01:26:28.288000+00:00,finn,
+I'm heading out rn,2022-08-17 01:25:28.178000+00:00,andrepology,
+need some second opinions on the stuff i'm working on,2022-08-17 01:25:06.515000+00:00,finn,
+"GG <@752493639174717492>, you just advanced to level 7!",2022-08-17 01:24:51.031000+00:00,MEE6,
+are you free to talk about bibliography stuff rn <@956585029524402226> ?,2022-08-17 01:24:50.530000+00:00,finn,
+Me too. I think horizontal scroll is what we might need. Something like researchrabbit.,2022-08-17 01:23:16.251000+00:00,andrepology,<MessageReference message_id=1009270945078325418 channel_id=1002291205025050724 guild_id=977651180308160512>
+"GG <@956585029524402226>, you just advanced to level 3!",2022-08-17 01:22:43.220000+00:00,MEE6,
+"And also stress that we have advocates/target users we want to directly involve in the design phase for : we've ""earned our stripes"" with this demo",2022-08-17 01:22:42.847000+00:00,andrepology,<MessageReference message_id=1009270768359702528 channel_id=1002291205025050724 guild_id=977651180308160512>
+"I'd be so up for building these too, citation mining is very exciting to me",2022-08-17 01:22:24.654000+00:00,finn,
+"We've already built semantic recommendation, we could work on citation mining next and then potentially synthesise",2022-08-17 01:21:42.521000+00:00,finn,
+"- User flows for academic search
+    - Citation mining: looking through citation and reference lists recursively**: Semantic Scholar reference and citation API**
+    - Recommendation: “More Like This” and “Less Like This”: **SPECTER + clustering**
+    - Keyword search: **Semantic scholar search API**
+    - Journal, author, metadata search: **Custom journal/author clustering algorithm**",2022-08-17 01:21:18.289000+00:00,finn,
+Also thinking a long term product direction could be: create a single interface that allows you to search academia with any user flow,2022-08-17 01:21:07.501000+00:00,finn,
+unrelated,2022-08-17 00:57:43.454000+00:00,finn,
+"Ya, agree. We should talk about this on a call when we're writing the doc",2022-08-17 00:57:12.962000+00:00,finn,
+"I see it as that as well. It's runway to create something sustainable. 
+
+The earlier points were about how to demonstrate ""what we've done"" well",2022-08-17 00:56:45.999000+00:00,andrepology,<MessageReference message_id=1009258375462256690 channel_id=1002291205025050724 guild_id=977651180308160512>
+"but that's very different to the type of work that we're doing now, so think it's worth discussing the differences explicitly",2022-08-17 00:33:26.235000+00:00,finn,
+"i'd also be fine just ending up as algorithm-driven researchers for a couple of years, piggy-backing off academic grants to pursue interesting data science challenges",2022-08-17 00:33:04.205000+00:00,finn,
+"to me, it provides runway for building something more sustainable, and so we have to approach it from the perspective of product thinking, because we want to end up with something that we can leverage/sell",2022-08-17 00:32:27.824000+00:00,finn,
+i also think there's the broader point of what we're pursuing this grant for,2022-08-17 00:31:42.881000+00:00,finn,
+"but that doesn't mean we're semantic space researchers. We building a product, and researching the semantic space to support that product",2022-08-17 00:28:27.514000+00:00,finn,
+Obvs they care about the research and data science side of it a lot more than an investor would,2022-08-17 00:27:51.915000+00:00,finn,
+"They're asking questions about our algorithm .You build an algorithm to achieve something, otherwise you can't judge how effectively it does that. What are we trying to achieve?",2022-08-17 00:27:30.327000+00:00,finn,
+Also it's called the network research research grant,2022-08-17 00:26:45.919000+00:00,andrepology,
+"2. How does your project complement/improve other similar initiatives in the spectrum of DeSci? Can you give me examples of projects/teams?
+^ this one too",2022-08-17 00:26:35.476000+00:00,finn,
+For sure. But I think those are ancillary to the previous questions,2022-08-17 00:26:27.591000+00:00,andrepology,
+"1. What's the current stage of the project, and what are your high hopes for it?
+2. What are the next steps and how do you see Protocol Labs' support to accomplish your goals?
+^ these are product questions more than they are research questions",2022-08-17 00:26:02.059000+00:00,finn,
+But - this is a research grant? I don't think they care about the immediate product value. I think we can talk about the direction we want to take it but there's still work to be done with the fundamental technology that's very much research than implementation,2022-08-17 00:24:38.666000+00:00,andrepology,
+"it doesn't actually matter how many papers we host or how well we explore the semantic space, if people don't want to use it, we're wasting money, effort and time",2022-08-17 00:10:08.848000+00:00,finn,
+"i think we need to use these prompts to rethink abstract poetry at a product level, not just an interface or data level",2022-08-17 00:09:38.349000+00:00,finn,
+"Ie I'm thinking about how to present concrete evidence around what we're doing, especially with studying the semantic space",2022-08-16 23:59:09.851000+00:00,andrepology,
+"So, I'm thinking about how to demonstrate APs fundamental potential (ie sampling semantic spaces for knowledge discovery) at a user-level and data-level in response to ""how to extract meaningful semantics from thousands of papers with different types of discourse and domain terms"".
+
+At the user-level, it would be really neat to quote experiences people had with it - Wilkins seeing the genes that were responsible for imprinting without the ""imprinting"" keyword anywhere, me with the Twitter recommendation algorithm lit review aha moment, and more that we can dig out. Ie Meaning > metadata for the problem of many discourse terms)
+
+
+On the data perspective, it'd be interesting to empirically test how much of the citation graph is captured (or not) for a given paper. Ie if we can show that nearest neighbors for a representative paper is not **only** filled by papers sharing a citation link, then we're allowing for paper discovery with less bias than citation based recommendation",2022-08-16 23:58:37.157000+00:00,andrepology,<MessageReference message_id=1009223543571087420 channel_id=1002291205025050724 guild_id=977651180308160512>
+These Protocol Labs questions provide such a good impetus for thinking about the future of AP,2022-08-16 23:43:03.898000+00:00,finn,
+Ah lit. have funn!,2022-08-16 23:16:41.485000+00:00,EllieDeSota,
+For the hell of it,2022-08-16 23:16:19.787000+00:00,finn,
+Wait shit - for the hell of it or are we implementing smart contracts somewhere?,2022-08-16 23:14:58.146000+00:00,EllieDeSota,
+Web3 stuff,2022-08-16 23:12:54.948000+00:00,finn,
+Solidity?,2022-08-16 23:12:44.503000+00:00,EllieDeSota,
+going to learn some solidity quickly,2022-08-16 23:12:14.923000+00:00,finn,
+vertical version is pushing to production,2022-08-16 23:08:34.119000+00:00,finn,
+yah fair enough,2022-08-16 23:02:35.273000+00:00,EllieDeSota,<MessageReference message_id=1009230974996971600 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Okay, will do now",2022-08-16 22:48:25.389000+00:00,finn,
+We should switch the UI back to what it was before we present. I worked on some revisions but not sure if it will be done in time,2022-08-16 22:44:11.812000+00:00,andrepology,
+i think we need to show up,2022-08-16 22:43:35.044000+00:00,finn,
+Will we need to actually distribute the pres or should we just do what we've been doing?,2022-08-16 22:42:35.215000+00:00,EllieDeSota,
+Ohhhh big rip,2022-08-16 22:41:53.024000+00:00,EllieDeSota,
+1.30am for me 😿,2022-08-16 22:41:24.154000+00:00,finn,
+"Damn, nice. Glad you caught that",2022-08-16 22:41:08.471000+00:00,EllieDeSota,
+https://docs.google.com/document/d/1EMdaTBxUK2tKPwbLyZ3hOfITBleAXO6PzazYFuQ43AI/edit,2022-08-16 22:37:23.577000+00:00,finn,
+"Also, we have a presentation at 4.30pm BST on the 17th of August, which is tomorrow for you guys i think",2022-08-16 22:37:18.903000+00:00,finn,
+Agree agree,2022-08-16 22:15:39.427000+00:00,EllieDeSota,<MessageReference message_id=1009223660520874076 channel_id=1002291205025050724 guild_id=977651180308160512>
+Oop - I started responding to non-tech qs here. https://www.notion.so/curl-projects/Protocol-Labs-Email-Proposal-e61499e91fc644cd9545bb8d15bec4a2,2022-08-16 22:15:27.585000+00:00,EllieDeSota,
+they're actually good questions,2022-08-16 22:14:38.069000+00:00,finn,
+let's make the responses really good and impress them',2022-08-16 22:14:31.137000+00:00,finn,
+"(when you're free of course, i'm just working all day, so whenever's fine!)",2022-08-16 22:14:20.499000+00:00,finn,
+<@956585029524402226> let's work together on the responses to Protocol Labs?,2022-08-16 22:14:03.254000+00:00,finn,
+"should i reply there, or here?",2022-08-16 22:11:54.581000+00:00,finn,
+"<@694931462763446363> you made a place in Notion to reply to technical questions, yeah?",2022-08-16 22:11:31.777000+00:00,finn,
+Okayy!,2022-08-16 22:01:16.160000+00:00,EllieDeSota,<MessageReference message_id=1009210133454278786 channel_id=1002291205025050724 guild_id=977651180308160512>
+Alright I will work on this after I'm home tonight and also respond to everything from yesterday. Worked on styling changes as I saw fit today.,2022-08-16 21:20:46.033000+00:00,andrepology,
+Note - just got an email back from Silvia about Protocol Labs. If either of you <@956585029524402226> <@752493639174717492> could respond to some of the technical questions either here or respond to my email. And I can whip up some materials on the business end than we can see what that direction might hold.,2022-08-16 21:19:22.126000+00:00,EllieDeSota,
+I'll write up some copy for the team likely tomorrow,2022-08-16 18:29:19.210000+00:00,EllieDeSota,
+The copy is written for AP in the notion here - https://www.notion.so/curl-projects/Landing-Page-c8e3f90e08894759851178b010a77adc.,2022-08-16 18:28:57.132000+00:00,EllieDeSota,
+I think if you write the copy in notion I can bring it over. That way I can control the design,2022-08-16 18:23:45.599000+00:00,andrepology,<MessageReference message_id=1009163819781738557 channel_id=1002291205025050724 guild_id=977651180308160512>
+it's like 20$ a year,2022-08-16 18:22:59.118000+00:00,andrepology,
+Aight - how much was that for hosting? (to add to the spreadsheet). And is the AP landing page complete enough to link to the curlprojects one? Or alternatively - can you send over sign in materials and I can drop a couple things in there?,2022-08-16 18:16:43.993000+00:00,EllieDeSota,<MessageReference message_id=1009159704078979082 channel_id=1002291205025050724 guild_id=977651180308160512>
+For the app,2022-08-16 18:00:53.513000+00:00,andrepology,
+I'm working on CSS tweaks,2022-08-16 18:00:48.544000+00:00,andrepology,
+"actually, if you want to write up the copy for it today that would be great",2022-08-16 18:00:37.791000+00:00,andrepology,
+curlprojects.com,2022-08-16 18:00:22.733000+00:00,andrepology,
+It's published. Haven't added content to it,2022-08-16 18:00:16.549000+00:00,andrepology,<MessageReference message_id=1009146749123825684 channel_id=1002291205025050724 guild_id=977651180308160512>
+Yo <@956585029524402226> You mentioned you finished a team landing page sometime last week. Is that published somewhere so I can associate it with emails etc?,2022-08-16 17:08:54.031000+00:00,EllieDeSota,
+Yay - happy eating! And yes - sync later. Probably your tomorrow morning. <@956585029524402226> Let us know if you can meet?,2022-08-16 04:17:29.184000+00:00,EllieDeSota,
+"i'm going to head and get some groceries, ttyl!",2022-08-16 04:16:42.571000+00:00,finn,
+Agree on all of this.,2022-08-16 04:16:27.592000+00:00,EllieDeSota,
+Yah - this is good. I think I exist on the 'ill figure it out'. I've been increasingly glad you're pulling in this direction.,2022-08-16 04:15:27.872000+00:00,EllieDeSota,<MessageReference message_id=1008951460249206794 channel_id=1002291205025050724 guild_id=977651180308160512>
+for me that means working as hard as I possibly can up until that point so i have more than vague hopes,2022-08-16 04:15:14.907000+00:00,finn,
+"So if we don't have a pathway for sustainability by then, i'll be forced to make a decision between a concrete plan for my future and a vague hope that we find something interesting to work on that's also profitable. That's not a decision i want to make, and I want to do everything in my power to make sure i don't have to",2022-08-16 04:14:43.033000+00:00,finn,
+Ahh - yah tru. This is something I hadn't considered,2022-08-16 04:14:25.067000+00:00,EllieDeSota,<MessageReference message_id=1008951460249206794 channel_id=1002291205025050724 guild_id=977651180308160512>
+another consideration: most of the internships that I'm applying for force you to make a decision in like October/November/December at the latest,2022-08-16 04:13:23.450000+00:00,finn,
+"survival kind of is my core value right now though, because i know how easily things fall apart and i am sick of being a financial burden on my family",2022-08-16 04:12:53.535000+00:00,finn,
+shared values doc sounds good to me,2022-08-16 04:11:50.144000+00:00,finn,<MessageReference message_id=1008950802225827911 channel_id=1002291205025050724 guild_id=977651180308160512>
+"yeah, that was the reaction that i'm worried about, and I think it's been pretty consistent across most of our interviews and interactions",2022-08-16 04:10:44.894000+00:00,finn,<MessageReference message_id=1008950272577515620 channel_id=1002291205025050724 guild_id=977651180308160512>
+Will review this. I think the thing I'm talking about isn't just individual values but more of getting to a shared value set on which we can make decisions. One point of failure for me in anything I work on is that I get pulled into doing something for 'survival' and that isn't aligned with core values and I want us all to be able to be checking ourselves in this area. Personal Opinion - is that we'll last a lot longer this way (or at least I'll last a lot longer working on any project we focus on this way?),2022-08-16 04:10:16.650000+00:00,EllieDeSota,<MessageReference message_id=1008950140201086996 channel_id=1002291205025050724 guild_id=977651180308160512>
+"GG <@694931462763446363>, you just advanced to level 5!",2022-08-16 04:08:10.823000+00:00,MEE6,
+"Nope I agree. I got lots of 'This was funnn :))' but not lots of OH SHIT - I would like to use this. I think we made something cool to people and they got 'nerdy' about the semantic relationships, but it wasn't something that they were excited about changing their workflow to incorporate",2022-08-16 04:08:10.372000+00:00,EllieDeSota,<MessageReference message_id=1008949939482669106 channel_id=1002291205025050724 guild_id=977651180308160512>
+"i'm happy to work on anything you want to for the team dynamics stuff, but my values haven't really changed from the ones that I wrote down at the beginning of the ""User Driven Development"" doc",2022-08-16 04:07:38.811000+00:00,finn,
+"I'm down with this! To this point tho -> I'm going to be 'bullish' that we need to figure out and sync on what 'this dynamic' is. Would like to prioritize at least getting out an initial values goals doc and I'm free to spend lots of time on Wed + Thur on it if both of you guys can. If not we can push off till when we're all in BA, but yahh",2022-08-16 04:06:52.105000+00:00,EllieDeSota,<MessageReference message_id=1008949267781648455 channel_id=1002291205025050724 guild_id=977651180308160512>
+"not sure if you've been getting different impressions <@694931462763446363> , but seemed like it was similar in your user interviews",2022-08-16 04:06:50.956000+00:00,finn,
+"Having said that, it's not like Abstract Poetry is completely certain to be unsuccessful, but i know that the problem hasn't really been resonating either for me or for people i've been talking to about it",2022-08-16 04:06:29.679000+00:00,finn,
+"The main difference is that ""What can I fix/tweak right now?"" is a coding question, while ""What are the fundamental changes we should make?"" is not",2022-08-16 04:05:47.751000+00:00,finn,
+Fair. Interesting to see how that switch works on your end. I think I've always been a little bit in this mode? Or at least in the meaning making mode so making a different meaning doesn't seem like work that is that different.,2022-08-16 04:04:15.960000+00:00,EllieDeSota,
+"As long as we're thinking along the lines of making this dynamic sustainable, i'm happy",2022-08-16 04:04:10.810000+00:00,finn,
+"Ya, it was just difficult to make the switch from ""what can i fix/tweak right now"" (which is viscerally satisfying work) to ""what's the fundamental changes that we need to the core idea"" (which is less so). I'm going to focus on that type of thinking now.",2022-08-16 04:02:41.897000+00:00,finn,
+"I'm down with this. I also think tho that while I initially I agreed that the change should be made, (and I should have focused more on bringing <@956585029524402226> in at that point - sorry about that) that we all seem to agree that there needs to be a more fundamental change than marginal changes to the current UI.",2022-08-16 04:01:11.603000+00:00,EllieDeSota,<MessageReference message_id=1008947884823167006 channel_id=1002291205025050724 guild_id=977651180308160512>
+"yeah, i agree with a lot of this, i just want us to start thinking in the mindset of ""how can we turn abstract poetry into something that can feed us""",2022-08-16 03:58:41.087000+00:00,finn,
+Also - doesn't seem like <@956585029524402226> is free - so <@752493639174717492> Maybe go get some food. Nourish yourself XD,2022-08-16 03:58:17.900000+00:00,EllieDeSota,
+"i feel this - something to note tho is that as you said, you feel like there is a chance that we have 'two more chances' to find what fits in the next year. I don't want to use those chances, but there is also spread out over 8 months (even if we say - 50% of the time or less) at least one more 'summer' in which to improve AP. My general feeling atm is potentially more aligned with what we said in our meeting earlier -> we need to back up a bit and figure stuff out for where this goes and how it works better/fits in a workflow/can be improved. I think the bibliography stuff is a step in the right direction, and I'm perfectly content to spend our first two months even of the school year just researching, talking to people, and finding our target audience through content creation and a solid strategy. While it does feel like a 'stop' of momentum on the development side, potentially spending time with design changes isn't a great use of time bc we need to figure how to transform AP into something that can feed us. (As a note - I'm noticing I see the next year as 8 months to let ourselves expand, not as panic worthy constraint and am generally actively trying to push in the direction of lack of panic bc I think it can lead to lots of funky decisions. BUT I have had relative success with floating on the wind - which is definitely a me thing. So take all with a grain of salt)",2022-08-16 03:57:38.851000+00:00,EllieDeSota,<MessageReference message_id=1008944986638790687 channel_id=1002291205025050724 guild_id=977651180308160512>
+"An important caveat to this is: Like i was saying to you <@694931462763446363> , I'm also just getting disillusioned with Abstract Poetry, because if it's just going to be a portfolio piece, then it's done. Any new versions/updates are kind of useless, because we've already demonstrated the core concept. If we don't think AP's going to be successful, I'd rather spend my time working on another project that is, instead of incrementing versions.",2022-08-16 03:51:31.605000+00:00,finn,
+Maybe this is just a good idea eep,2022-08-16 03:49:42.022000+00:00,EllieDeSota,<MessageReference message_id=1008945532871376937 channel_id=1002291205025050724 guild_id=977651180308160512>
+"<@956585029524402226> ? If not no worries - but there seems to be at least two things we need to work out to keep us all feeling like we're moving forward and settled. a) a concrete idea of what Anais, Kaymin, Malia + <@752493639174717492> feel that led to the design change so we can see if it is something to implement in this version and what other minimal change might fit the purpose (or if it shouldn't be focused on yet). and b) A concrete framing and syncing on our strategy. Finn and I talked a bit about this, but need you <@956585029524402226> to actually settle.",2022-08-16 03:49:31.749000+00:00,EllieDeSota,
+"if we're not calling now though, i'm going to go buy groceries, haven't eaten properly in ages",2022-08-16 03:49:20.338000+00:00,finn,
+"i'm free, obvs",2022-08-16 03:47:24.293000+00:00,finn,
+"Worth acknowledging that a lot of this is driven by anxiety about what I'm going to do after college. I absolutely do not want to work for other people after leaving Minerva, and the way that I deal with stresses like that is attacking them relentlessly until they go away. I think we need to have that type of urgency to be successful, because with the current plan for Abstract Poetry, it seems like we're going to have to code and market a completely new startup in between now and the end of Minerva, which is a crazy amount of work alongside friends and other projects/jobs and capstone",2022-08-16 03:47:10.106000+00:00,finn,
+Are all of us free to jump on a call atm?,2022-08-16 03:46:34.935000+00:00,EllieDeSota,
+"I know that working on things that aren't perfectly thought-out or well-designed means i waste some of my time or don't do things perfectly, but we're also not in a design phase as a team right now. If I asked us as a team to redesign the interface to address issues with vertical reading/text etc., how long would it take before a got a Figma draft back? Probably more than 7 days, which means i'm in Brazil and nothing changes in the codebase for the next three weeks to a month.",2022-08-16 03:44:27.556000+00:00,finn,
+"i want AP to be successful. I hate the idea of spending all of my time and energy working on a glorified tech demo that we put into our portfolio, and i dislike the way that you frame it that way <@956585029524402226>. We're very rapidly running out of time to build something that earns us enough money to work together out of college, and this is one of our last chances.
+
+Because that's my mindset, I'm desperately trying to improve the application as much as possible before going on break. Some of the issues that I have with AP are the design, and normally i'd be fine leaving that to you, but to be honest <@956585029524402226> you don't seem to be really working on Abstract Poetry right now, so rather than waiting hours or days for you to respond, I'm implementing design changes myself because we don't have that time to waste. If the implementation sucks, that's fine! I'll fix it today or tomorrow or whenever. The important thing is that we're not just waiting around or making tiny incremental changes.",2022-08-16 03:41:01.388000+00:00,finn,
+"ah, this is so hard to phrase",2022-08-16 03:34:13.971000+00:00,finn,
+here's where i'm at mentally:,2022-08-16 03:32:38.814000+00:00,finn,
+"malia, kaymin, anais + lots of frustration on my end wrangling clusters, reading nodes, etc.",2022-08-16 03:32:03.692000+00:00,finn,
+To get on the same page - what are the specific user insights you're referring to <@752493639174717492> ?,2022-08-16 03:30:37.243000+00:00,EllieDeSota,
+"having said that, there were justification behind the proportions",2022-08-16 03:29:26.397000+00:00,finn,
+"It also isn't coherent. I don't know what ""cluttered"" means but the old version is intentional. The new one seems to want to accommodate new features that the current design wasn't really designed for. So it doesn't feel well designed, and doesn't look good either",2022-08-16 03:29:21.108000+00:00,andrepology,
+"i'm literally happy to change whatever, i have zero attachment to this new design",2022-08-16 03:28:08.828000+00:00,finn,
+The background and proportions make it really imbalanced,2022-08-16 03:27:19.602000+00:00,andrepology,
+I don't think it's the right way to address whatever insights you're referring to,2022-08-16 03:26:53.399000+00:00,andrepology,
+I dislike the implementation,2022-08-16 03:26:35.311000+00:00,andrepology,
+"do you dislike it fundamentally, or do you dislike the implementation",2022-08-16 03:26:17.205000+00:00,finn,
+it's based on several user interview insights,2022-08-16 03:25:30.006000+00:00,finn,
+i like it more because i found the old one very cluttered,2022-08-16 03:25:19.286000+00:00,finn,
+🤷‍♂️ if people hate it i'll just tweak the toggle back to false,2022-08-16 03:25:01.807000+00:00,finn,
+*horizontal version,2022-08-16 03:24:38.398000+00:00,andrepology,
+"GG <@956585029524402226>, you just advanced to level 2!",2022-08-16 03:24:12.240000+00:00,MEE6,
+Not really a fan of the interface change,2022-08-16 03:24:11.792000+00:00,andrepology,
+"Also note. Things that felt nice from chatting today with you Finn was to see the things you were thinking of juggling on your end. My actions from that are that I'd like to write up a clear ask of how we figure out some priorities on my end. (Currently - Protocol Labs ends on Aug 30th, EV can be submitted if we get some feedback from Watson + you guys, Need to figure out a synergistic direction that we might want to take the chats with DeSci Labs + there is the maintenance of our own channels + our notion workspace which is getting hugely chaotic). Currently it feels like it would be helpful for each of us do something similar and then we figure a time when we're all free enough to have a solid meeting about aligning our directions? (Maybe there is another way to do this - if you see that lmk!)",2022-08-16 02:03:49.754000+00:00,EllieDeSota,
+going to write up a product devlog for AP's new version for the discord and slack,2022-08-16 01:57:41.051000+00:00,finn,
+"i'm also going to go on a walk, i'll think about this",2022-08-16 01:57:28.182000+00:00,finn,
+"perfect, sounds good",2022-08-16 01:57:16.823000+00:00,finn,
+I'm gonna head off on a run me thinks - but will come back and organize the info we already have + redig into our database of user problems (and update from the user interviews that I've just been tracking bugs/product stuff from) and see what comes out.,2022-08-16 01:57:09.237000+00:00,EllieDeSota,
+i think the user flow is different though,2022-08-16 01:57:08.901000+00:00,finn,
+some of the idea is quite similar to connected papers,2022-08-16 01:56:50.814000+00:00,finn,
+"Yeah, agreed",2022-08-16 01:56:01.638000+00:00,finn,
+I generally agree. I'd like to chat a bit more with a couple academics surrounding this specifically poking at the current frame for forward backward citation mining. (Maybe related to how we don't become Connected Papers?),2022-08-16 01:55:14.554000+00:00,EllieDeSota,
+The other is supporting reference and citation mining,2022-08-16 01:53:15.359000+00:00,finn,
+One is improving the experience of interacting with the bibliography,2022-08-16 01:53:03.670000+00:00,finn,
+There seems to be two sides to it,2022-08-16 01:52:54.217000+00:00,finn,
+I think bibliography stuff is actually quite promising,2022-08-16 01:52:48.146000+00:00,finn,
+Thing that randomly came up - DeSci Nodes is actually hiring engineers. https://desci.com/team,2022-08-16 01:51:59.679000+00:00,EllieDeSota,
+Oki - will check it out!,2022-08-16 01:31:45.796000+00:00,EllieDeSota,
+<@694931462763446363> outlined what i consider to be the main problems with bibliographies and bibliography search in the doc. Let me know what you think!,2022-08-16 01:31:26.761000+00:00,finn,
+"Brainstorming bibliography problems, solutions and ideas here: https://www.notion.so/curl-projects/Bibliographies-09221922dbb144eaa8bc2d30b163958b",2022-08-16 01:18:34.863000+00:00,finn,
+Ye coming,2022-08-16 01:17:08.226000+00:00,EllieDeSota,
+Shit,2022-08-16 01:17:04.801000+00:00,EllieDeSota,
+<@694931462763446363> you coming?,2022-08-16 01:04:23.502000+00:00,finn,
+We have SoftBank day in 20 mins,2022-08-16 00:38:43.485000+00:00,finn,
+https://meet.google.com/xao-cxzm-frx,2022-08-15 21:58:28.513000+00:00,EllieDeSota,
+Les do,2022-08-15 21:58:03.777000+00:00,EllieDeSota,<MessageReference message_id=1008856344650076262 channel_id=1002291205025050724 guild_id=977651180308160512>
+I have to meet my aunt,2022-08-15 21:58:02.219000+00:00,andrepology,
+Fine with me,2022-08-15 21:57:52.828000+00:00,finn,
+max 20 mins though,2022-08-15 21:57:48.146000+00:00,andrepology,
+I'm ready to talk,2022-08-15 21:57:43.466000+00:00,andrepology,<MessageReference message_id=1008855393855881416 channel_id=1002291205025050724 guild_id=977651180308160512>
+Do you have the bibliography DOI from this search? Is 10.5195/jmla.2017.88 the bibliography DOI? Can't find it in our database,2022-08-15 21:54:56.209000+00:00,finn,<MessageReference message_id=1008790150215630949 channel_id=1002291205025050724 guild_id=977651180308160512>
+It might be acceptable just to create a massive list of papers,2022-08-15 21:51:37.687000+00:00,finn,
+"Hmmm, one big thing i want to discuss is whether to rip out traversal paths",2022-08-15 21:51:09.522000+00:00,finn,
+"Oh, this was referring to me, not you, if that's it. All of the bugs I'm fixing are from my shitty code.",2022-08-15 21:49:07.803000+00:00,finn,<MessageReference message_id=1008853328135999520 channel_id=1002291205025050724 guild_id=977651180308160512>
+?,2022-08-15 21:48:22.586000+00:00,finn,<MessageReference message_id=1008854159317028896 channel_id=1002291205025050724 guild_id=977651180308160512>
+???,2022-08-15 21:46:15.185000+00:00,andrepology,
+Incredible the number of bugs in what’s effectively a 3 page application,2022-08-15 21:42:57.016000+00:00,finn,<MessageReference message_id=1008852658477604864 channel_id=1002291205025050724 guild_id=977651180308160512>
+I forked up the otter and only recorded myself tho so you'll need to take it from me :/,2022-08-15 21:41:00.929000+00:00,EllieDeSota,
+Anyway if we can talk briefly before you meet your aunt Andre would be good,2022-08-15 21:40:59.944000+00:00,finn,
+Also - Watson loved hypertext bibliography!,2022-08-15 21:40:35.988000+00:00,EllieDeSota,
+Will put in more bugs and notes from Watsons interview this morning 😛,2022-08-15 21:40:17.357000+00:00,EllieDeSota,<MessageReference message_id=1008851928693870692 channel_id=1002291205025050724 guild_id=977651180308160512>
+You’re just salty because you’re four (4) levels behind me,2022-08-15 21:39:09.932000+00:00,finn,
+Why is a Rick and Morty character in this chat,2022-08-15 21:38:53.650000+00:00,andrepology,
+"Oh, now you’re level 1",2022-08-15 21:38:45.510000+00:00,finn,
+You’re level 0 loser,2022-08-15 21:38:30.420000+00:00,finn,
+What the fuck is this,2022-08-15 21:38:16.034000+00:00,andrepology,<MessageReference message_id=1008851931105591448 channel_id=1002291205025050724 guild_id=977651180308160512>
+Also need to meet my aunt in an hour,2022-08-15 21:38:00.336000+00:00,andrepology,
+"GG <@752493639174717492>, you just advanced to level 5!",2022-08-15 21:37:23.938000+00:00,MEE6,
+"That’s fine too, will fix the metadata bugs in the meantime",2022-08-15 21:37:23.363000+00:00,finn,
+I'm on the subway need a bit,2022-08-15 21:36:58.841000+00:00,andrepology,
+2 mins,2022-08-15 21:35:23.881000+00:00,finn,
+"Yep, let me get a coffee and then I’m free",2022-08-15 21:35:20.393000+00:00,finn,
+Shall we meet now then?,2022-08-15 21:35:02.731000+00:00,EllieDeSota,
+Associating cluster node with papers is great,2022-08-15 21:26:42.582000+00:00,andrepology,<MessageReference message_id=1008847676382654575 channel_id=1002291205025050724 guild_id=977651180308160512>
+Also I realized the phrasing was a little passive aggressive. Didn't intend it to be. I think what you're doing is awesome I just feel disconnected from it,2022-08-15 21:25:00.165000+00:00,andrepology,
+"-  bibliography list search- State isn’t changed when you navigate across clusters
+- Associate cluster node with paper in list view
+- Differentiate bibliography papers from non-bibliography papers
+- Jump to most recent recommended paper
+- Prompt with bibliography copy 
+- Generate full bibliography (less important) — different to copy pinned papers
+- List view shows by default
+- list view walks entire tree instead of path DONE",2022-08-15 21:20:29.533000+00:00,finn,
+Here are some of the features I might work on today:,2022-08-15 21:19:50.636000+00:00,finn,
+I think it’s extremely promising,2022-08-15 21:19:38.137000+00:00,finn,
+Want to talk about future product directions associated with building better bibliographies in general,2022-08-15 21:19:21.479000+00:00,finn,
+Let’s have a meeting to talk about stuff soon?,2022-08-15 21:00:27.562000+00:00,finn,
+"I just think that if we’re in that mode, I’m just going to assume I can go in and change stuff unless I know otherwise, because it’s too slow to wait for confirmation",2022-08-15 20:58:37.572000+00:00,finn,
+"It’s okay, I really don’t mind driving new development!",2022-08-15 20:57:42.584000+00:00,finn,
+"Combo of moving out and new York has given me no time, I'm sorry. Also focusing on gal atm",2022-08-15 20:57:16.836000+00:00,andrepology,<MessageReference message_id=1008840235003695155 channel_id=1002291205025050724 guild_id=977651180308160512>
+"GG <@956585029524402226>, you just advanced to level 1!",2022-08-15 20:56:50.712000+00:00,MEE6,
+"I know, I just mean that we could have synced on horizontal and made it work. Its def something we need in v2.",2022-08-15 20:56:50.141000+00:00,andrepology,<MessageReference message_id=1008840647735787660 channel_id=1002291205025050724 guild_id=977651180308160512>
+"If you change the Boolean horizontal to false in the paperId route, everything goes back to normal",2022-08-15 20:52:33.773000+00:00,finn,
+"Yes, but no one’s really been responding for the last week",2022-08-15 20:50:55.370000+00:00,finn,
+"I started working on a horizontal scroll idea in Figma, could have been more coherent if you just talked me through it first",2022-08-15 19:19:42.543000+00:00,andrepology,
+also can you talk to me in a  minimal sense before you want to make changes like this <@752493639174717492> ?,2022-08-15 19:17:29.355000+00:00,andrepology,
+need to change this back,2022-08-15 19:07:34.366000+00:00,andrepology,
+?,2022-08-15 19:06:38.106000+00:00,andrepology,<MessageReference message_id=1008599766852173845 channel_id=1002291205025050724 guild_id=977651180308160512>
+Bug when entering - 10.5195/jmla.2017.88 this DOI,2022-08-15 17:31:54.226000+00:00,EllieDeSota,
+Ye! Wanted to chat about this as well,2022-08-15 15:06:54.212000+00:00,EllieDeSota,<MessageReference message_id=1007736012778262538 channel_id=1002291205025050724 guild_id=977651180308160512>
+"Hello <@694931462763446363> <@956585029524402226> can we have a meeting at some point during my tomorrow morning? I've been thinking about application strategy and monetization, and I have a really promising new set of ideas.",2022-08-15 11:34:46.001000+00:00,finn,
+"Latest version deployed, fixed some sneaky bugs too",2022-08-15 06:39:40.451000+00:00,finn,
+"I think some users like the idea of it, but the implementation makes it relatively unusable",2022-08-15 05:07:29.540000+00:00,finn,
+I'll think about this,2022-08-15 05:07:02.616000+00:00,finn,
+Or refactor significantly,2022-08-15 05:06:59.270000+00:00,finn,
+"Yeah, might just get rid of it",2022-08-15 05:06:51.767000+00:00,finn,
+Note on this. Path view as it is is essentially useless - I've not seen a single person use it in any real way atm. To be considered for future.,2022-08-15 05:05:36.100000+00:00,EllieDeSota,<MessageReference message_id=1008600513501208576 channel_id=1002291205025050724 guild_id=977651180308160512>
+"path view gets ugly more quickly, but suits cluster viewer more, i think",2022-08-15 04:58:21.310000+00:00,finn,
+still works at scale,2022-08-15 04:56:02.086000+00:00,finn,
+this is already nicer,2022-08-15 04:55:28.762000+00:00,finn,
+,2022-08-15 04:55:23.295000+00:00,finn,
+"but yeah, the horizontal view probably needs the control panel somewhere else ultimately",2022-08-15 04:53:56.681000+00:00,finn,
+was going to link it to a media query so that it flips to vertical once the screen size is small enough,2022-08-15 04:52:40.791000+00:00,finn,
+Oh lit nice,2022-08-15 04:52:26.183000+00:00,EllieDeSota,<MessageReference message_id=1008598949474611260 channel_id=1002291205025050724 guild_id=977651180308160512>
+"i've set it up so that all configuration is associated with a single Boolean variable, so we can effectively flip a switch and move between layouts",2022-08-15 04:52:08.417000+00:00,finn,
+"GG <@694931462763446363>, you just advanced to level 4!",2022-08-15 04:51:59.074000+00:00,MEE6,
+Yah I agree - I don't know that squishing it will solve it atm either. Will likely take a redesign,2022-08-15 04:51:58.788000+00:00,EllieDeSota,
+"leaves us with a lot of negative space that can draw the eye weirdly, especially given how vibrant the background is",2022-08-15 04:51:38.677000+00:00,finn,
+the control panel's the real issue now i think,2022-08-15 04:50:54.644000+00:00,finn,
+i can change the proportion of abstract to cluster viewer to emphasise it more,2022-08-15 04:50:16.883000+00:00,finn,
+Things that are fun - it prioritizes the cluster view. Things that are weird it squishes the abstract view so you have the bad vibes of moving your eyes down a page slightly too rapidly. (I do it on the phone all the time but dislike on a computer screen) so might need t o figure out the control panel,2022-08-15 04:46:35.027000+00:00,EllieDeSota,
+Yes - agree. Andre and I were chatting about something similar. Lots of things need refactoring in this set up and I think we may want to go even further and have a really easy way to just navigate the cluster view and then have the abstract act as a pop up when you want more info. But yah - I additionally seems to give more room to the abstract for reading. Which is nice,2022-08-15 04:25:21.723000+00:00,EllieDeSota,<MessageReference message_id=1008591237449793637 channel_id=1002291205025050724 guild_id=977651180308160512>
+"there were quite a few user interviews that hinted at this type of change, reading through the notes and based on the people that i talked to",2022-08-15 04:22:54.146000+00:00,finn,
+thoughts on this?,2022-08-15 04:21:29.727000+00:00,finn,
+,2022-08-15 04:21:28.364000+00:00,finn,
+"GG <@752493639174717492>, you just advanced to level 4!",2022-08-15 04:19:49.053000+00:00,MEE6,
+"ah, one of those! i know the problem, need to figure out why it's happening though",2022-08-15 04:19:48.547000+00:00,finn,
+Also - wasn't going to go down the bug finding route. BUT - This is currently returning a 404 not found https://abstract-poetry.fly.dev/10.1093$bioinformatics/btp698?nodeId=97,2022-08-15 04:19:14.649000+00:00,EllieDeSota,
+Sure!,2022-08-15 04:10:54.653000+00:00,EllieDeSota,<MessageReference message_id=1008586407201226853 channel_id=1002291205025050724 guild_id=977651180308160512>
+"if not, tomorrow's fine",2022-08-15 04:02:31.553000+00:00,finn,
+"I would love your feedback on something quickly in about 15 mins, if you're free to just give gut reaction",2022-08-15 04:02:18.106000+00:00,finn,
+"Yep, sounds good!",2022-08-15 04:01:57.657000+00:00,finn,
+Also can do in the morning tomorrow!,2022-08-15 04:01:32.351000+00:00,EllieDeSota,<MessageReference message_id=1008559903956283452 channel_id=1002291205025050724 guild_id=977651180308160512>
+Can do!,2022-08-15 03:59:14.046000+00:00,EllieDeSota,
+Oh <@694931462763446363> can you share the most recent version of the pitch with Jin?,2022-08-15 03:25:51.036000+00:00,finn,
+"trying out a design tweak i've been thinking about for a while, will let you know how it goes!",2022-08-15 03:25:08.585000+00:00,finn,
+i can't find any when i'm searching. but want to check on multiple computers to be safe,2022-08-15 02:16:59.240000+00:00,finn,
+either of you free to do some bug finding?,2022-08-15 02:16:42.848000+00:00,finn,
+"I'll merge once I've done my final round of searching for bugs, pushing to production now",2022-08-15 01:41:26.769000+00:00,finn,
+"Also fixed every css bug on our list, including expanding containers. Should work on everything now, although we definitely need to test that.",2022-08-15 01:40:37.308000+00:00,finn,
+,2022-08-15 01:39:55.044000+00:00,finn,
+"Completely refactored the logic and UI for both search and bibliography, much cleaner now",2022-08-15 01:39:42.046000+00:00,finn,
+Hello! Pretty massive changes to the UI this morning,2022-08-15 01:39:20.991000+00:00,finn,
+"Oh, also changed the dots into hearts",2022-08-14 11:59:01.120000+00:00,finn,
+"The main branch is not up to date, and deployment's roughly up-to-date, except for my updated search interface",2022-08-14 11:58:55.038000+00:00,finn,
+"Three main outcomes of today:
+1. Fixed almost all CSS and browser-compatibility bugs
+2. Fixed localStorage issues with clusters not showing up, and changed the storage method so now there's no tab ""bleed-through"" of data (i.e. you can have as many simultaneous Abstract Poetry sessions)
+3. Got 80% of the way through the new search interface, which is now just a search bar and nothing else. Mostly done
+
+- Also started implementing media query HTML for phone and tablet, but ran into some CSS issues. Will do this tomorrow morning",2022-08-14 11:58:32.227000+00:00,finn,
+"Okay, going to bed",2022-08-14 11:55:54.896000+00:00,finn,
+"All css bugs that I've found are fixed except for expanding containers, which I'm working on now",2022-08-14 01:54:42.227000+00:00,finn,
+Fixed most of the CSS bugs on safari,2022-08-14 00:56:25.599000+00:00,finn,
+"Okay, after a very irritating morning, fixed the bleed-through tab issue",2022-08-14 00:24:37.288000+00:00,finn,
+Aight. I'm going on a hike this afternoon - so let's do tomorrow.,2022-08-13 14:29:52.383000+00:00,EllieDeSota,<MessageReference message_id=1007964504207921272 channel_id=1002291205025050724 guild_id=977651180308160512>
+Ahh nice! Will check that out,2022-08-13 14:12:36.787000+00:00,EllieDeSota,<MessageReference message_id=1007942471755501608 channel_id=1002291205025050724 guild_id=977651180308160512>
+And then <@694931462763446363> let's do the Semantic Bibliography marketing stuff we were talking about,2022-08-13 10:51:04.878000+00:00,finn,
+I'm going to fix all the css and cross-browser bugs tomorrow,2022-08-13 10:50:43.984000+00:00,finn,
+"Okay, in the middle of fixing the multiple tabs bug. I know what to do, but just got too tired to finish it today -- will do it tomorrow morning.",2022-08-13 10:50:32.848000+00:00,finn,
+<@694931462763446363> Fixed the cluster not-appearing bug (i think),2022-08-13 09:23:31.932000+00:00,finn,
+Also Finn FYI H1B is guaranteed if you work for a non profit... Which roote is. Something to keep in mind too,2022-08-13 04:17:48.450000+00:00,andrepology,<MessageReference message_id=1007845203635343391 channel_id=1002291205025050724 guild_id=977651180308160512>
+so wasted a ton of time,2022-08-13 02:57:08.367000+00:00,finn,
+"Spent 3 hours this morning doing Facebook APM stuff, only for it to close the application as I was submitting",2022-08-13 02:57:01.405000+00:00,finn,
+"Just writing my IL199 paper on Abstract Poetry and then working out, then I'm moving back to Abstract Poetry work",2022-08-13 02:56:34.782000+00:00,finn,
+I'll look into this soon. Tldr we can reduce the cost dramatically by doing a kind of compression on the vectors. Just need to test how much of a classification error there is as a result with current clustering,2022-08-13 02:54:07.330000+00:00,andrepology,<MessageReference message_id=1007809710726058004 channel_id=1002291205025050724 guild_id=977651180308160512>
+(Also - I can take that portion out in general if it's not a 1 year vision thing),2022-08-13 00:36:18.078000+00:00,EllieDeSota,
+Also - I have some fake numbers in that proposal. How much would it cost to put together our own semantic embeddings?,2022-08-13 00:35:59.236000+00:00,EllieDeSota,
+It needs some serious word cutting. And also - I'm completely lost on the 'greater movements' bit and would like some general direction so if you have any moments to pop into that feel free. If not no worries - I'm sending it over to Ozluk and Watson now,2022-08-13 00:26:04.023000+00:00,EllieDeSota,
+https://www.notion.so/curl-projects/Emergent-Ventures-Proposal-Drafts-1a6bdf52dd1a4d20ab49078d159e14da,2022-08-13 00:25:15.230000+00:00,EllieDeSota,
+Aight sweet - also just rewrote for the most part the Emergent Ventures pitch,2022-08-13 00:25:13.800000+00:00,EllieDeSota,
+"Hello! Just finishing a couple of miscellaneous tasks, and then I'll reply to this in detail and look into that bug",2022-08-12 22:37:51.358000+00:00,finn,
+"ALSO - Prof. Sealfon had the same problem as Leila the other day. I had her save her search, but it looks like it's a storage/user issue. Once again, I could access the clusters but she couldn't. I showed her the clusters and she seemed really excited but was definitely bummed that she couldn't play with the application bc the clusters weren't working.",2022-08-12 20:35:38.856000+00:00,EllieDeSota,
+"TLDR From chatting with Erik - he just wants to help us/me in what we're doing. He thinks it's lit. He gave me access to a notion doc where we're going to start brainstorming/ideating what it would look like for me to run a discussion (mainly asynchronous) about peer-review/science etc on DeSci labs. We should chat about how this fits with each of our capstones + AP + Skepsi and how it can connect with our potential go to market strategy. (Or alternatively -> that it's not where we want to be). (Side note - there is a small chance DeSci labs may be able to fund me for this (low 4 figures). Which would be great bc might mean I can ignore the sunk cost fallacy and not do Psych, so small celebrations!)",2022-08-12 19:47:34.303000+00:00,EllieDeSota,
+"TLDR from chatting with Sophia yesterday. We've got too many go to market strategies and we should probably get serious about choosing who we want to use as our Target user to intelligently choose between them. The best way to do this on her end was clarifying our goals for the upcoming 4 months so we can prioritize the channels we're split over. (Some of this was I communicated poorly/some of it is something we should do). We ~may~ need to create an LLC or use Andre's shell company? before attempting to monetize anything. But her take (which seems in line with where we're going) is that we likely shouldn't focus on monetizing in the next sprint, and instead should focus on getting monthly active users. My first thoughts are here -> and I'll make this clearer using our previous retrospective but we may need to have a chat on Monday to make this super clear across all of us.",2022-08-12 19:43:08.276000+00:00,EllieDeSota,
+NICE XD - Games on >:(),2022-08-12 16:36:01.860000+00:00,EllieDeSota,
+"I don’t mind, it was up to you anyway",2022-08-12 03:22:08.046000+00:00,finn,
+Bwahahahaha,2022-08-12 03:21:54.905000+00:00,finn,
+"GG <@752493639174717492>, you just advanced to level 3!",2022-08-12 03:21:50.604000+00:00,MEE6,
+Oh damn Ellie’s beating me I need to get to level 3,2022-08-12 03:21:50.287000+00:00,finn,
+"GG <@694931462763446363>, you just advanced to level 3!",2022-08-12 03:05:25.202000+00:00,MEE6,
+Ah - did not wait for a reply eep. I'm down to do a pitch to you tomorrow sometime and will be doing another practice one with Ozluk next week.,2022-08-12 03:05:24.796000+00:00,EllieDeSota,
+10 minute commitment then?,2022-08-12 01:44:42.211000+00:00,finn,
+We could present first and then immediately leave?,2022-08-12 01:44:33.244000+00:00,finn,
+Hmm okay,2022-08-12 01:44:25.596000+00:00,finn,
+Yo - imma pop in the slack that we can't come,2022-08-12 01:44:06.411000+00:00,EllieDeSota,
+https://meet.google.com/edh-yctc-gef,2022-08-11 00:51:01.525000+00:00,EllieDeSota,
+<@752493639174717492>,2022-08-11 00:50:00.354000+00:00,EllieDeSota,
+Yo - pop into another gmeet?,2022-08-11 00:49:55.459000+00:00,EllieDeSota,
+"Yep, no problem!",2022-08-09 21:35:06.433000+00:00,finn,
+Hey - I'm taking a break today because of the intensity of running FF over the last couple of days (my brain is currently running way below the speed limit). Talk tomorrow?,2022-08-09 17:41:50.317000+00:00,EllieDeSota,
+I’m going to fix some more stuff and then go back to algorithm design,2022-08-09 02:44:39.678000+00:00,finn,
+Let’s talk your tomorrow or the day after about some strategy stuff I’ve been thinking about?,2022-08-09 02:44:13.165000+00:00,finn,
+"Great job, was an excellent test for the final presentation",2022-08-09 02:43:56.986000+00:00,finn,
+"<@752493639174717492> Thanks - also, that answer about bias at the algorithmic level was 🤯 . I liked that so much...",2022-08-09 01:53:05.455000+00:00,EllieDeSota,
+Was brilliant <@694931462763446363> amazing job,2022-08-09 01:51:38.539000+00:00,finn,
+https://forms.gle/wBii69pvPv8B3UpJA,2022-08-09 01:10:29.410000+00:00,EllieDeSota,
+"Just need the Google form, but no rush, can do it during the beginning of the presentation",2022-08-09 00:55:08.274000+00:00,finn,
+"Slack: https://join.slack.com/t/curl-projects/shared_invite/zt-1dez98is7-Yxtu3GKvB4ae3RDG~9qF5g
+Discord: https://discord.gg/X8PtGHkMQc
+Calendly: https://calendly.com/curl-projects/30min
+
+Website Link: https://abstract-poetry.fly.dev/search
+Example Search: https://abstract-poetry.fly.dev/share/cl6kl14a50005eshw3ouos55a",2022-08-09 00:54:39.708000+00:00,finn,
+"I'll take care of the links, but here they are for convenience:",2022-08-09 00:54:33.311000+00:00,finn,
+Sent the recording on telegram,2022-08-09 00:50:29.230000+00:00,finn,
+what do we need in the recording?,2022-08-09 00:47:46.727000+00:00,finn,
+"GG <@752493639174717492>, you just advanced to level 2!",2022-08-09 00:47:21.194000+00:00,MEE6,
+"Okay, will record now",2022-08-09 00:47:20.931000+00:00,finn,
+To the video recording.,2022-08-09 00:45:39.227000+00:00,EllieDeSota,
+"GG <@694931462763446363>, you just advanced to level 2!",2022-08-09 00:45:29.554000+00:00,MEE6,
+Yes please!,2022-08-09 00:45:29.241000+00:00,EllieDeSota,
+"Can’t find any obvious breaking bugs, but I’ll test in production too",2022-08-09 00:43:52.462000+00:00,finn,
+Deploying latest version now,2022-08-09 00:43:38.483000+00:00,finn,
+Can record the video now if you still need it?,2022-08-09 00:43:05.997000+00:00,finn,
+"Yep, will do",2022-08-09 00:42:53.413000+00:00,finn,
+"Also - <@752493639174717492> could you gather all links so you can drop them in at appropriate points? (Mainly just at the end - drop in the slack, discord, calendly. And Abstract Poetry + i'll get you the gform)",2022-08-09 00:38:50.827000+00:00,EllieDeSota,
+And it is a napkin,2022-08-09 00:32:56.436000+00:00,EllieDeSota,<MessageReference message_id=1006146073733103707 channel_id=1002291205025050724 guild_id=977651180308160512>
+I'm finishing the final bits on the pres then running through it in about 15 mins,2022-08-09 00:32:40.933000+00:00,EllieDeSota,
+All the answers. Thank you! Polishing and creating the vid for the presentation would be lovely 🙂,2022-08-09 00:32:24.580000+00:00,EllieDeSota,
+"<@694931462763446363> let me know if you want me to swap to presentation, or if you want to do a run-through",2022-08-08 22:25:36.733000+00:00,finn,
+"Okay, getting started on work, happy to talk/text whenever",2022-08-08 20:59:08.663000+00:00,finn,
+what the hell is that on your nose in ur discord photo <@694931462763446363>,2022-08-08 10:25:17.268000+00:00,finn,
+"Anyway, I'm going to go to bed, but excited to fix this feature-set properly tomorrow!",2022-08-08 10:22:39.557000+00:00,finn,
+"Would be amazing <@956585029524402226> if the cross-browser issues can be fixed by the presentation time tomorrow, just because i feel it's so clunky to have to say ""only open these links if you're on chrome on your computer""",2022-08-08 10:22:23.675000+00:00,finn,
+"Happy to work on presentation with you tomorrow morning when I wake up though <@694931462763446363>, if you need the help. Otherwise will polish everything up for the presentation.",2022-08-08 10:21:45.794000+00:00,finn,
+"In general, I have lots and lots of thoughts on how we might use Semantic Bibliographies to market AP (and potentially turn them into the core service that we provide) that I want to discuss with you guys.",2022-08-08 10:20:37.720000+00:00,finn,
+I'll do a proper write-up/announcement for Semantic Bibliography stuff tomorrow once I've fixed all the remaining bugs and made it more user friendly,2022-08-08 10:19:31.951000+00:00,finn,
+"GG <@752493639174717492>, you just advanced to level 1!",2022-08-08 10:18:57.016000+00:00,MEE6,
+"Wrote up an explanation for the AI Lab in the abstract-poetry channel anyway, Watson rejected the meeting so i'm not going to wake up at 4.30am for it.",2022-08-08 10:18:56.691000+00:00,finn,
+<@694931462763446363> seems like Prof. Watson can't make it to the meeting tomorrow morning?,2022-08-08 09:57:25.315000+00:00,finn,
+"I overhauled quite a bit of code, so there's a lot of little issues and redundant code that I need to go back and fix",2022-08-08 09:49:12.871000+00:00,finn,
+"Okay, that was way more painful than expected, but everything's working normally now, and I fixed a couple of bugs that had been haunting me for a while",2022-08-08 09:48:52.499000+00:00,finn,
+Sweet thank you!,2022-08-07 06:13:32.234000+00:00,EllieDeSota,
+"I’ll fix it this afternoon, just pushed without bug fixing",2022-08-07 06:10:13.581000+00:00,finn,
+Oh weird,2022-08-07 06:09:56.939000+00:00,finn,
+It sends an error page. Also the initialization starts with somewhere closer to 15/20 clusters instead of 8,2022-08-07 06:09:42.662000+00:00,EllieDeSota,
+What I mean by broken is that you cant leave impressions anymore,2022-08-07 06:09:12.576000+00:00,EllieDeSota,
+<@956585029524402226> <@752493639174717492> Can both of you see this?,2022-08-05 22:55:57.685000+00:00,EllieDeSota,
+"This channel has been set up to receive official Discord announcements for admins and moderators of Community servers. We'll let you know about important updates, such as new moderation features or changes to your server's eligibility for Server Discovery, here.
+
+You can change which channel these messages are sent to at any time inside Server Settings. We recommend choosing your staff channel, as some information may be sensitive to your server.
+
+Thanks for choosing Discord as the place to build your community!",2022-07-28 19:07:26.008000+00:00,Community Updates,
